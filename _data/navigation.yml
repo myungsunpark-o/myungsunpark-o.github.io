@@ -8,13 +8,10 @@
 #      Markdown formatted page while the second is generated using JSON.
 main:
   - title: "Publications"
-    url: "{{ '/publications/' | relative_url }}"
+    url: /publications/
 
   - title: "CV"
-    url: "{{ '/cv/' | relative_url }}"
-
-  - title: "Guide"
-    url: "{{ '/markdown/' | relative_url }}"
+    url: /cv/
 
   - title: "Guide"
     url: /markdown/
