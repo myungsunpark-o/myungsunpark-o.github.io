@@ -177,6 +177,11 @@
   min-width: 250px;
   background: var(--global-bg-color);
 
+  display: flex;              // 추가
+  justify-content: center;    // 추가
+  align-items: center;        // 추가 (세로 가운데 정렬)
+
+   
   a {
     display: block;
     margin: 0 1rem;
