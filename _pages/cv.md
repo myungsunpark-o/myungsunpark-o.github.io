@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-You can also find my full CV in the sidebar on the left.
 ---
 
 Education
