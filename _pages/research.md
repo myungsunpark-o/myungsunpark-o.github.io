@@ -35,10 +35,10 @@ author_profile: true
 </div>
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap; margin-top: 15px;">
-  <img src="/images/research/1_1_glove.png" style="width: 25%; height: 200px; object-fit: cover; border-radius: 8px;">
-  <img src="/images/research/1_2_handtracking.png" style="width: 25%; height: 200px; object-fit: cover; border-radius: 8px;">
-  <img src="/images/research/1_3_shadow.png" style="width: 25%; height: 200px; object-fit: cover; border-radius: 8px;">
-  <img src="/images/research/1_4_robothand.png" style="width: 25%; height: 200px; object-fit: cover; border-radius: 8px;">
+  <img src="/images/research/1_1_glove.png" style="width: 24%; aspect-ratio: 1 / 1; object-fit: contain; background: #fff; border-radius: 8px;">
+  <img src="/images/research/1_2_handtracking.png" style="width: 24%; aspect-ratio: 1 / 1; object-fit: contain; background: #fff; border-radius: 8px;">
+  <img src="/images/research/1_3_shadow.png" style="width: 24%; aspect-ratio: 1 / 1; object-fit: contain; background: #fff; border-radius: 8px;">
+  <img src="/images/research/1_4_robothand.png" style="width: 24%; aspect-ratio: 1 / 1; object-fit: contain; background: #fff; border-radius: 8px;">
 </div>
 
 <hr style="margin: 40px 0;" />
