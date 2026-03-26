@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-You can down my full CV in the sidebar on the left.
+You can download my full CV in the sidebar on the left.
 <hr style="margin: 30px 0;" />
 
 Education
