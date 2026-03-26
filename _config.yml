@@ -29,8 +29,7 @@ author:
   bio              : "Postdoc at UCSD"
   location         : "San Diego, USA"
   employer         : #"University of California San Diego"
-  # uri              : "/files/CV - MyungsunPark.pdf"
-  cv               : "/files/CV - MyungsunPark.pdf"
+  uri              : "/files/CV - MyungsunPark.pdf"
   email            : "mypark@ucsd.edu" 
   
   # Academic websites
