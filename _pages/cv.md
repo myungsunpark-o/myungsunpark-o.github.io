@@ -50,6 +50,6 @@ Teaching and Service
 * Conference volunteer: IEEE International Conference on Soft Robotics (RoboSoft)
 San Diego, CA USA.
 * Teaching Assistant: SNU M2794.001700: Mechanical product design (2019)
-* Tutoring: SNU Peer tutoring program (math, physics)
+* Peer-tutoring: SNU Peer tutoring program (math, physics)
   * 18 freshmen/international students (2015–2018)
 * Team leader: SNU student club for off-road car racing (KSAE Baja) (2015–2017) 
