@@ -16,18 +16,16 @@ author_profile: true
     [View details]
   </summary>
   
-<!-- <details style="cursor: pointer; margin-top: 10px;">
-  <summary style="font-weight: bold; color: #666666; list-style: none;">[View details]</summary>
-  <div style="margin: 15px 0; padding: 15px; background: #fdfdfd; border-left: 4px solid #666666; border-radius: 4px; box-shadow: inset 0 0 5px rgba(0,0,0,0.05);"> -->
+  <div style="margin: 15px 0; padding: 15px; background: #f9f9f9; border-left: 4px solid #ccc; border-radius: 4px; box-shadow: inset 0 0 5px rgba(0,0,0,0.02); cursor: default;">
     
     <div style="font-size: 1.0em; font-weight: bold; color: #333; margin-bottom: 5px;">정확한 동작 측정을 위한 모션 캡쳐 및 후처리</div>
-    <p style="margin-top: 0; margin-bottom: 15px;">여기에 해당 항목의 설명을 입력하세요.</p>
+    <p style="margin-top: 0; margin-bottom: 15px;">정밀한 동작 측정을 위한 알고리즘과 데이터 처리를 연구합니다.</p>
 
     <div style="font-size: 1.0em; font-weight: bold; color: #333; margin-bottom: 5px;">손 모양과 동작을 동시에 측정하는 데이터 장갑</div>
-    <p style="margin-top: 0; margin-bottom: 15px;">여기에 해당 항목의 설명을 입력하세요.</p>
+    <p style="margin-top: 0; margin-bottom: 15px;">손 모양과 동작을 동시에 측정하는 웨어러블 장치 연구입니다.</p>
 
     <div style="font-size: 1.0em; font-weight: bold; color: #333; margin-bottom: 5px;">로봇 핸드의 직관적인 원격 조작</div>
-    <p style="margin-top: 0; margin-bottom: 0;">여기에 해당 항목의 설명을 입력하세요.</p>
+    <p style="margin-top: 0; margin-bottom: 0;">로봇 핸드의 직관적인 원격 조작 인터페이스를 구현합니다.</p>
     
   </div>
 </details>
