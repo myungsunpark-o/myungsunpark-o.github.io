@@ -43,13 +43,12 @@ Awards and Honors
 
 Teaching and Service
 ======
-* Peer-reviews: IEEE Robotics and Automation Letters, IEEE Transactions on Robotics, Science Advances, Advanced Intelligent Systems, Robotics: Science and Systems, IEEE International Conference on Robotics (ICRA), IEEE International Conference on Soft Robotics (RoboSoft).
-* Conference session chair: International Conference on Robotics and Automation (ICRA), Atlanta, GA USA.
-* Guest lectures: UC San Diego MAE 249 (Soft Robotics) (Spring 2024, Fall 2024, Fall 2025)
-* Project evaluation: UC San Diego MAE 156B (Senior mechanical engineering student design projects) (Fall 2024, Winter 2025, Spring 2025)
-* Conference volunteer: IEEE International Conference on Soft Robotics (RoboSoft)
-San Diego, CA USA.
-* Teaching Assistant: SNU M2794.001700: Mechanical product design (2019)
-* Peer-tutoring: SNU Peer tutoring program (math, physics)
+* **Peer-reviews**: IEEE Robotics and Automation Letters, IEEE Transactions on Robotics, Science Advances, Advanced Intelligent Systems, Robotics: Science and Systems, IEEE International Conference on Robotics (ICRA), IEEE International Conference on Soft Robotics (RoboSoft).
+* **Conference session chair**: ICRA 2025, Atlanta, GA USA.
+* **Guest lectures**: UC San Diego MAE 249 (Soft Robotics) (Spring 2024, Fall 2024, Fall 2025)
+* **Project evaluation**: UC San Diego MAE 156B (Senior mechanical engineering student design projects) (Fall 2024, Winter 2025, Spring 2025)
+* **Conference volunteer**: RoboSoft 2024, San Diego, CA USA.
+* **Teaching Assistant**: SNU M2794.001700 (Mechanical product design) (2019)
+* **Peer-tutoring**: SNU Peer Tutoring Program (math, physics)
   * 18 freshmen/international students (2015–2018)
-* Team leader: SNU student club for off-road car racing (KSAE Baja) (2015–2017) 
+* **Student team leader**: SNU student club for off-road car racing (KSAE Baja) (2015–2017) 
