@@ -18,8 +18,7 @@ Education
 
 Work experience
 ======
-* 2024--Present: Postdoctoral researcher
-  * University of California San Diego
+* 2024--Present: Postdoctoral researcher, University of California San Diego
   * Advisor: Michael T. Tolley, Geno Pawlak
   
 Awards and Honors
@@ -40,7 +39,7 @@ Awards and Honors
 * 2018: Graduation with honors, **Summa Cum Laude**
 * 2014--2018: Korean National Scholarships
 * 2015--2017: SNU Mechanical Engineering Scholarships
-* 2015–-2017: Hyunsong Educational and Cultural Foundation Scholarships
+* 2015--2017: Hyunsong Educational and Cultural Foundation Scholarships
 * 2014:	Seoul National University Foundation Scholarship
 
 Teaching and Service
