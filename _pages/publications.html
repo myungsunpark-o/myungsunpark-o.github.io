@@ -6,31 +6,31 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <p>You can also find my articles on <a href="{{site.author.googlescholar}}">Google Scholar</a>.</p>
 {% endif %}
 
-{% include base_path %}
+<hr />
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
-
-
+{% for post in site.publications reversed %}
+  <div class="list__item" style="margin-bottom: 1em; border-bottom: 1px solid #f2f2f2; padding-bottom: 0.5em;">
+    <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+      <h3 class="archive__item-title" itemprop="headline" style="margin-bottom: 0.25em; font-size: 1.1em;">
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>
+      </h3>
+      
+      <p class="archive__item-excerpt" itemprop="description" style="margin-top: 0; font-size: 0.9em;">
+        {% if post.venue %}
+          <strong>{{ post.venue }}</strong>, {{ post.date | date: '%Y' }} 
+        {% endif %}
+        
+        {% if post.paperurl %}
+          | <a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> PDF</a>
+        {% endif %}
+        
+        {% if post.citation %}
+          <br /><small style="color: #666;">{{ post.citation }}</small>
+        {% endif %}
+      </p>
+    </article>
+  </div>
+{% endfor %}
