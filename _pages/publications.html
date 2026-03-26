@@ -6,31 +6,40 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <p>You can also find my articles on <a href="{{site.author.googlescholar}}">Google Scholar</a>.</p>
+  <p>You can also find my articles on <a href="{{site.author.googlescholar}}" style="color: #268bd2;">Google Scholar profile</a>.</p>
 {% endif %}
 
 <hr />
 
-{% for post in site.publications reversed %}
-  <div class="list__item" style="margin-bottom: 1em; border-bottom: 1px solid #f2f2f2; padding-bottom: 0.5em;">
-    <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-      <h3 class="archive__item-title" itemprop="headline" style="margin-bottom: 0.25em; font-size: 1.1em;">
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>
-      </h3>
-      
-      <p class="archive__item-excerpt" itemprop="description" style="margin-top: 0; font-size: 0.9em;">
-        {% if post.venue %}
-          <strong>{{ post.venue }}</strong>, {{ post.date | date: '%Y' }} 
-        {% endif %}
-        
-        {% if post.paperurl %}
-          | <a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> PDF</a>
-        {% endif %}
-        
-        {% if post.citation %}
-          <br /><small style="color: #666;">{{ post.citation }}</small>
-        {% endif %}
-      </p>
-    </article>
-  </div>
-{% endfor %}
+<style>
+  /* 제목 파란색 설정 */
+  .pub-title {
+    color: #268bd2; 
+    font-weight: bold;
+    text-decoration: none;
+  }
+  .pub-title:hover {
+    text-decoration: underline;
+  }
+  /* 리스트 간격 조절 */
+  ol.pub-list li {
+    margin-bottom: 1.5em;
+    line-height: 1.6;
+  }
+</style>
+
+<ol class="pub-list" reversed>
+
+  <li>
+    <a href="https://논문PDF링크.pdf" class="pub-title">Deep Learning for Autonomous Robotics</a>. 
+    <strong>Myungsun Park</strong>, Author 2, and Author 3. 
+    <a href="https://저널홈페이지링크" style="font-style: italic; color: #444;">IEEE Transactions on Robotics</a>. 2024.
+  </li>
+
+  <li>
+    <a href="https://arxiv.org/abs/..." class="pub-title">A Study on Human-Robot Interaction</a>. 
+    Author 1, <strong>Myungsun Park</strong>, and Author 3. 
+    <a href="https://학회링크" style="font-style: italic; color: #444;">ICRA</a>. 2023.
+  </li>
+
+</ol>
