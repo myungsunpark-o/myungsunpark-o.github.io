@@ -23,13 +23,13 @@ author_profile: true
     
     <div style="display: block; margin: 15px 0; padding: 15px; background: #f9f9f9; border-left: 4px solid #ccc; border-radius: 4px; box-shadow: inset 0 0 5px rgba(0,0,0,0.02); cursor: default;">
       <div style="font-size: 1.0em; font-weight: bold; color: #333; margin-bottom: 5px;">정확한 동작 측정을 위한 모션 캡쳐 및 후처리</div>
-      <p style="margin-top: 0; margin-bottom: 15px;">정밀한 동작 측정을 위한 알고리즘과 데이터 처리를 연구합니다.</p>
+      <p style="margin-top: 0; margin-bottom: 15px;">위치 기반 마커 추정에 비해 오차에 강건한 회전 기반 모션 캡쳐 방식 고안. 캡쳐 데이터를 개인별 서로 다른 손의 형상에 대해 user-independent, user-dependent variables로 분리하여 ___ 문제를 해결. </p>
 
       <div style="font-size: 1.0em; font-weight: bold; color: #333; margin-bottom: 5px;">손 모양과 동작을 동시에 측정하는 데이터 장갑</div>
-      <p style="margin-top: 0; margin-bottom: 15px;">손 모양과 동작을 동시에 측정하는 웨어러블 장치 연구입니다.</p>
+      <p style="margin-top: 0; margin-bottom: 15px;">착용 순간 손 모양에 알맞게 늘어나는 Highly stretchable strain sensors를 통한 캘리브레이션-프리, state-of-the-art accuracy로 손의 동작을 실시간 추정. 다양한 가상 현실 어플리케이션에 활용. </p>
 
       <div style="font-size: 1.0em; font-weight: bold; color: #333; margin-bottom: 5px;">로봇 핸드의 직관적인 원격 조작</div>
-      <p style="margin-top: 0; margin-bottom: 0;">로봇 핸드의 직관적인 원격 조작 인터페이스를 구현합니다.</p>
+      <p style="margin-top: 0; margin-bottom: 0;">여러 손가락의 협동과 손 끝의 정밀한 제어가 필요한 로봇 핸드의 dexterous manipulation 구현</p>
     </div>
   </details>
 </div>
