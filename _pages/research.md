@@ -13,8 +13,8 @@ author_profile: true
 소프트 로봇의 유연성을 유지하면서도 정밀한 제어를 위한 센싱 기술을 연구합니다. 사람의 손 동작을 데이터화하고 이를 로봇에 이식하는 핵심 기술을 다룹니다.
 
 <details style="cursor: pointer; margin-top: 10px;">
-  <summary style="font-weight: bold; color: #268bd2; list-style: none;">[View details]</summary>
-  <div style="margin: 15px 0; padding: 15px; background: #fdfdfd; border-left: 4px solid #268bd2; border-radius: 4px; box-shadow: inset 0 0 5px rgba(0,0,0,0.05);">
+  <summary style="font-weight: bold; color: #666666; list-style: none;">[View details]</summary>
+  <div style="margin: 15px 0; padding: 15px; background: #fdfdfd; border-left: 4px solid #666666; border-radius: 4px; box-shadow: inset 0 0 5px rgba(0,0,0,0.05);">
     
     <div style="font-size: 1.0em; font-weight: bold; color: #333; margin-bottom: 5px;">정확한 동작 측정을 위한 모션 캡쳐 및 후처리</div>
     <p style="margin-top: 0; margin-bottom: 15px;">여기에 해당 항목의 설명을 입력하세요.</p>
