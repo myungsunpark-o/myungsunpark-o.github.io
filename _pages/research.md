@@ -10,25 +10,29 @@ author_profile: true
 <hr style="margin: 30px 0;" />
 
 # 정확한 손 동작 측정과 로봇 핸드의 제어
-소프트 로봇의 유연성을 유지하면서도 정밀한 제어를 위한 센싱 기술을 연구합니다. 사람의 손 동작을 데이터화하고 이를 로봇에 이식하는 핵심 기술을 다룹니다.
-<details style="display: inline; cursor: pointer; margin-left: 5px;">
-  <summary style="display: inline; font-weight: bold; color: #666; list-style: none; font-size: 0.9em;">
-    [View details]
-  </summary>
-  
-  <div style="margin: 15px 0; padding: 15px; background: #f9f9f9; border-left: 4px solid #ccc; border-radius: 4px; box-shadow: inset 0 0 5px rgba(0,0,0,0.02); cursor: default;">
-    
-    <div style="font-size: 1.0em; font-weight: bold; color: #333; margin-bottom: 5px;">정확한 동작 측정을 위한 모션 캡쳐 및 후처리</div>
-    <p style="margin-top: 0; margin-bottom: 15px;">정밀한 동작 측정을 위한 알고리즘과 데이터 처리를 연구합니다.</p>
 
-    <div style="font-size: 1.0em; font-weight: bold; color: #333; margin-bottom: 5px;">손 모양과 동작을 동시에 측정하는 데이터 장갑</div>
-    <p style="margin-top: 0; margin-bottom: 15px;">손 모양과 동작을 동시에 측정하는 웨어러블 장치 연구입니다.</p>
+<div style="display: block; margin-bottom: 15px;">
+  <span style="display: inline;">
+    소프트 로봇의 유연성을 유지하면서도 정밀한 제어를 위한 센싱 기술을 연구합니다. 사람의 손 동작을 데이터화하고 이를 로봇에 이식하는 핵심 기술을 다룹니다.
+  </span>
 
-    <div style="font-size: 1.0em; font-weight: bold; color: #333; margin-bottom: 5px;">로봇 핸드의 직관적인 원격 조작</div>
-    <p style="margin-top: 0; margin-bottom: 0;">로봇 핸드의 직관적인 원격 조작 인터페이스를 구현합니다.</p>
+  <details style="display: inline; cursor: pointer; margin-left: 5px;">
+    <summary style="display: inline; font-weight: bold; color: #666; list-style: none; font-size: 0.9em;">
+      [View details]
+    </summary>
     
-  </div>
-</details>
+    <div style="display: block; margin: 15px 0; padding: 15px; background: #f9f9f9; border-left: 4px solid #ccc; border-radius: 4px; box-shadow: inset 0 0 5px rgba(0,0,0,0.02); cursor: default;">
+      <div style="font-size: 1.0em; font-weight: bold; color: #333; margin-bottom: 5px;">정확한 동작 측정을 위한 모션 캡쳐 및 후처리</div>
+      <p style="margin-top: 0; margin-bottom: 15px;">정밀한 동작 측정을 위한 알고리즘과 데이터 처리를 연구합니다.</p>
+
+      <div style="font-size: 1.0em; font-weight: bold; color: #333; margin-bottom: 5px;">손 모양과 동작을 동시에 측정하는 데이터 장갑</div>
+      <p style="margin-top: 0; margin-bottom: 15px;">손 모양과 동작을 동시에 측정하는 웨어러블 장치 연구입니다.</p>
+
+      <div style="font-size: 1.0em; font-weight: bold; color: #333; margin-bottom: 5px;">로봇 핸드의 직관적인 원격 조작</div>
+      <p style="margin-top: 0; margin-bottom: 0;">로봇 핸드의 직관적인 원격 조작 인터페이스를 구현합니다.</p>
+    </div>
+  </details>
+</div>
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap; margin-top: 15px;">
   <img src="/images/research1_1.jpg" style="width: 32%; height: 200px; object-fit: cover; border-radius: 8px;">
