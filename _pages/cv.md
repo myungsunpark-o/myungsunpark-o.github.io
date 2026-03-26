@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: 
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
----
+You can down my full CV in the sidebar on the left.
+<hr style="margin: 30px 0;" />
 
 Education
 ======
