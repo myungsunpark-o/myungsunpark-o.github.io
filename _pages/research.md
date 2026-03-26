@@ -78,6 +78,8 @@ author_profile: true
   <img src="/images/research/2_5_robotestimation.png" style="height: 120px; width: auto; object-fit: contain; border-radius: 8px; border: 1px solid #eee;">
 </div>
 
+<hr style="margin: 30px 0;" />
+
 # 사람을 닮은 로봇 핸드 physical AI
 
 <div style="display: block; margin-bottom: 15px;">
