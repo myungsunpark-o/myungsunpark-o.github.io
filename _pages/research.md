@@ -34,11 +34,11 @@ author_profile: true
   </details>
 </div>
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap; margin-top: 15px;">
-  <img src="/images/research/1_1_glove.png" style="width: 24%; aspect-ratio: 1 / 1; object-fit: contain; background: #fff; border-radius: 8px;">
-  <img src="/images/research/1_2_handtracking.png" style="width: 24%; aspect-ratio: 1 / 1; object-fit: contain; background: #fff; border-radius: 8px;">
-  <img src="/images/research/1_3_shadow.png" style="width: 24%; aspect-ratio: 1 / 1; object-fit: contain; background: #fff; border-radius: 8px;">
-  <img src="/images/research/1_4_robothand.png" style="width: 24%; aspect-ratio: 1 / 1; object-fit: contain; background: #fff; border-radius: 8px;">
+<div style="display: flex; gap: 10px; align-items: flex-start; margin-top: 15px; flex-wrap: nowrap;">
+  <img src="/images/research/1_1_glove.png" style="height: 200px; width: auto; object-fit: contain; border-radius: 8px; border: 1px solid #eee;">
+  <img src="/images/research/1_2_handtracking.png" style="height: 200px; width: auto; object-fit: contain; border-radius: 8px; border: 1px solid #eee;">
+  <img src="/images/research/1_3_shadow.png" style="height: 200px; width: auto; object-fit: contain; border-radius: 8px; border: 1px solid #eee;">
+  <img src="/images/research/1_4_robothand.png" style="height: 200px; width: auto; object-fit: contain; border-radius: 8px; border: 1px solid #eee;">
 </div>
 
 <hr style="margin: 40px 0;" />
