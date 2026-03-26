@@ -23,7 +23,7 @@ repository               : "myungsunpark-o/myungsunpark-o.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://myungsunpark-o.github.io/images/MyungsunParkProfile.jpg"
+  avatar           : "https://myungsunpark-o.github.io/images/myprofile.jpg"
   name             : "Myungsun Park"
   pronouns         : # example: "she/her"  
   bio              : "Postdoc at UCSD"
