@@ -13,7 +13,7 @@ author_profile: true
 
 <div style="display: block; margin-bottom: 15px;">
   <span style="display: inline;">
-    소프트 로봇의 유연성을 유지하면서도 정밀한 제어를 위한 센싱 기술을 연구합니다. 사람의 손 동작을 데이터화하고 이를 로봇에 이식하는 핵심 기술을 다룹니다.
+    사람은 여러 손가락의 협동을 통해 복잡한 매니퓰레이션 작업을 수행합니다. 이와 같은 수준의 다자유도 로봇 매니퓰레이션을 physical AI로 구현하기 위해서는 양질의 데이터 확보가 필요하지만, 이를 확보하는 데 어려움이 있습니다. 저는 이 문제를 사람 손가락의 모든 자유도를 정확하게 측정하는 웨어러블 디바이스로 해결하고자 합니다. 이 접근은 다자유도 로봇 핸드의 쉽게 시연하기 어려운 복잡한 작업 수행을 손쉽게 가능하게 합니다. 
   </span>
 
   <details style="display: inline; cursor: pointer; margin-left: 5px;">
@@ -47,7 +47,7 @@ author_profile: true
 
 <div style="display: block; margin-bottom: 15px;">
   <span style="display: inline;">
-    소프트 로봇의 유연성을 유지하면서도 정밀한 제어를 위한 센싱 기술을 연구합니다. 사람의 손 동작을 데이터화하고 이를 로봇에 이식하는 핵심 기술을 다룹니다.
+    우리는 손가락의 복잡한 동작뿐 아니라 피부의 정교한 촉각 감각 활용해 불확실한 물체 및 환경을 인식하고 상호작용합니다. 저는 사람 수준의 정교한 감각과 상호작용을 로봇에 구현하기 위한 햅틱 피드백 디바이스와 촉각 및 환경 센싱에 대한 연구를 수행합니다. 이는 향상된 조작을 위한 멀티 모달 촉각 센서의 개발과 이를 활용한 환경에 적응적인 로봇 기술을 가능하게 합니다.    
   </span>
 
   <details style="display: inline; cursor: pointer; margin-left: 5px;">
@@ -81,7 +81,7 @@ author_profile: true
 
 <div style="display: block; margin-bottom: 15px;">
   <span style="display: inline;">
-    소프트 로봇의 유연성을 유지하면서도 정밀한 제어를 위한 센싱 기술을 연구합니다. 사람의 손 동작을 데이터화하고 이를 로봇에 이식하는 핵심 기술을 다룹니다.
+    정확한 동작과 정교한 감각을 기반으로 의미적인 판단과 행동을 하는 사람의 지능을 로봇에 구현할 수 있습니다. 저는 복잡한 사람의 조작 전략을 모델링하고, 이를 모사한 로봇의 센싱 및 제어 시스템에 관해 연구합니다. 이를 통해 단순히 시연이나 데이터에 의존하는 것을 넘어 사람과 같이 효율적인 로봇의 physical AI를 구현하는 것을 목표로 합니다.
   </span>
 
   <details style="display: inline; cursor: pointer; margin-left: 5px;">
