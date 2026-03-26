@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-You can download my full CV [here]("/files/CV - MyungsunPark.pdf").
+You can download my full CV [here](https://myungsunpark-o.github.io/cv/).
 <hr style="margin: 30px 0;" />
 
 Education
