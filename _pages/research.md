@@ -71,11 +71,8 @@ author_profile: true
 <div style="display: flex; gap: 10px; align-items: flex-start; margin-top: 15px; flex-wrap: nowrap;">
   <img src="/images/research/2_1_hapticteleop.png" style="height: 130px; width: auto; object-fit: contain; border-radius: 8px; border: 1px solid #eee;">
   <img src="/images/research/2_2_tactilebenchmark.png" style="height: 130px; width: auto; object-fit: contain; border-radius: 8px; border: 1px solid #eee;">
-</div>
-<div style="display: flex; gap: 10px; align-items: flex-start; margin-top: 15px; flex-wrap: nowrap;">
-  <img src="/images/research/2_3_flowsensor.png" style="height: 120px; width: auto; object-fit: contain; border-radius: 8px; border: 1px solid #eee;">
-  <img src="/images/research/2_4_robotswimming.png" style="height: 120px; width: auto; object-fit: contain; border-radius: 8px; border: 1px solid #eee;">
-  <img src="/images/research/2_5_robotestimation.png" style="height: 120px; width: auto; object-fit: contain; border-radius: 8px; border: 1px solid #eee;">
+  <img src="/images/research/2_3_flowsensor.png" style="height: 130px; width: auto; object-fit: contain; border-radius: 8px; border: 1px solid #eee;">
+  <img src="/images/research/2_5_robotestimation.png" style="height: 130px; width: auto; object-fit: contain; border-radius: 8px; border: 1px 
 </div>
 
 <hr style="margin: 30px 0;" />
@@ -103,7 +100,7 @@ author_profile: true
 </div>
 
 <div style="display: flex; gap: 10px; align-items: flex-start; margin-top: 15px; flex-wrap: nowrap;">
-  <img src="/images/research/3_1_hybridmodel.png" style="height: 130px; width: auto; object-fit: contain; border-radius: 8px; border: 1px solid #eee;">
-  <img src="/images/research/3_2_kinematics.png" style="height: 130px; width: auto; object-fit: contain; border-radius: 8px; border: 1px solid #eee;">
-  <img src="/images/research/3_3_control.png" style="height: 130px; width: auto; object-fit: contain; border-radius: 8px; border: 1px solid #eee;">
+  <img src="/images/research/3_1_hybridmodel.png" style="height: 150px; width: auto; object-fit: contain; border-radius: 8px; border: 1px solid #eee;">
+  <img src="/images/research/3_2_kinematics.png" style="height: 150px; width: auto; object-fit: contain; border-radius: 8px; border: 1px solid #eee;">
+  <img src="/images/research/3_3_control.png" style="height: 150px; width: auto; object-fit: contain; border-radius: 8px; border: 1px solid #eee;">
 </div>
