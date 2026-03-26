@@ -27,10 +27,9 @@ author:
   name             : "Myungsun Park"
   pronouns         : # example: "she/her"  
   bio              : "Postdoc at UCSD"
-  cv               : "CV - MyungsunPark.pdf"      
   location         : "San Diego, USA"
   employer         : #"University of California San Diego"
-  uri              : # URL
+  uri              : "/files/CV - MyungsunPark.pdf"
   email            : "mypark@ucsd.edu" 
   
   # Academic websites
