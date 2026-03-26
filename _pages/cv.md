@@ -13,6 +13,7 @@ You can down my full CV in the sidebar on the left.
 Education
 ======
 * Ph.D in Mechanical Engineering, Seoul National University, 2024
+  * Advisor: Yong-Lae Park 
 * B.S. in Mechanical and Aerospace Engineering, Seoul National University, 2018
 
 Work experience
