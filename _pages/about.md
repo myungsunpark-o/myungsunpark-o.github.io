@@ -12,19 +12,19 @@ I am currently working as a postdoc at University of California San Diego with P
   
   <div style="flex: 1;">
     <video autoplay loop muted playsinline style="width: 100%; height: auto; display: block;">
-      <source src="/images/Main1.mp4" type="video/mp4">
+      <source src="/images/research/Main1.mp4" type="video/mp4">
     </video>
   </div>
 
   <div style="flex: 1;">
     <video autoplay loop muted playsinline style="width: 100%; height: auto; display: block;">
-      <source src="/images/Main2.mp4" type="video/mp4">
+      <source src="/images/research/Main2.mp4" type="video/mp4">
     </video>
   </div>
 
   <div style="flex: 1;">
     <video autoplay loop muted playsinline style="width: 100%; height: auto; display: block;">
-      <source src="/images/Main3.mp4" type="video/mp4">
+      <source src="/images/research/Main3.mp4" type="video/mp4">
     </video>
   </div>
 
