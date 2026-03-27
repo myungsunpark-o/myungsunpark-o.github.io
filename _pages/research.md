@@ -12,8 +12,7 @@ My research focuses on implementing **human-like Physical AI in dexterous robot 
 
 <div style="display: block; margin-bottom: 15px;">
   <span style="display: inline;">
-    Humans perform complex manipulation tasks through the coordination of multiple fingers. Implementing this level of dexterous robotic manipulation via **Physical AI requires high-quality datasets**, which are often challenging to acquire. I address this issue by developing wearable devices that accurately measure all degrees of freedom in human fingers. This approach enables intuitive teleoperation of dexterous robotic hands, facilitating complex tasks that are otherwise difficult to demonstrate.
-    
+    Humans perform complex manipulation tasks through the coordination of multiple fingers. Implementing this level of dexterous robotic manipulation via <b>Physical AI requires high-quality datasets</b>, which are often challenging to acquire. I address this issue by developing wearable devices that accurately measure all degrees of freedom in human fingers. This approach enables intuitive teleoperation of dexterous robotic hands, facilitating complex tasks that are otherwise difficult to demonstrate.
   </span>
 
   <details style="display: inline; cursor: pointer; margin-left: 5px;">
@@ -25,7 +24,7 @@ My research focuses on implementing **human-like Physical AI in dexterous robot 
       <div style="font-size: 1.0em; font-weight: bold; color: #333; margin-bottom: 5px;">Hand Motion Capture and Post-processing with Enhanced Accuracy</div>
       <p style="margin-top: 0; margin-bottom: 15px;"><i>Robust Rotation-based MoCap</i> outperforms position-based estimation in accuracy. <i>Geometry Decoupling</i> solves the retargeting problem by separating user-independent and dependent variables. </p>
 
-      <div style="font-size: 1.0em; font-weight: bold; color: #333; margin-bottom: 5px;">Stretchable Motion Capture Glove</div>
+      <div style="font-size: 1.0em; font-weight: bold; color: #333; margin-bottom: 5px;">Wearable Motion Capture Glove</div>
       <p style="margin-top: 0; margin-bottom: 15px;"><i>Calibration-free Sensing</i> achieves state-of-the-art accuracy using highly stretchable strain sensors that conform and auto-calibrate to diverse hand shapes. <i>Versatile Application</i> demonstrated high performance in various virtual reality (VR) and human-robot interaction scenarios. </p>
 
       <div style="font-size: 1.0em; font-weight: bold; color: #333; margin-bottom: 5px;">Intuitive Teleoperation of Multi-finger Robotic Hands</div>
@@ -43,11 +42,11 @@ My research focuses on implementing **human-like Physical AI in dexterous robot 
 
 <hr style="margin: 30px 0;" />
 
-# 정교한 물리적 상호작용을 위한 멀티 모달 촉각 센서와 햅틱 피드백
+# Multimodal Tactile Sensing and Haptic Feedback for Sophisticated Physical Interaction
 
 <div style="display: block; margin-bottom: 15px;">
   <span style="display: inline;">
-    우리는 손가락의 복잡한 동작뿐 아니라 피부의 정교한 촉각 감각 활용해 불확실한 물체 및 환경을 인식하고 상호작용합니다. 저는 사람 수준의 정교한 감각과 상호작용을 로봇에 구현하기 위한 햅틱 피드백 디바이스와 촉각 및 환경 센싱에 대한 연구를 수행합니다. 이는 향상된 조작을 위한 멀티 모달 촉각 센서의 개발과 이를 활용한 환경에 적응적인 로봇 기술을 가능하게 합니다.    
+    Humans perceive and interact with uncertain objects and environments using not only complex finger movements but also sophisticated tactile sensations. My research focuses on developing haptic feedback devices and tactile/environmental sensing technologies to implement this level of refined interaction in robots. This approach enables the development of multimodal <b>tactile sensors for enhanced manipulation and adaptive robotic technologies for diverse environments</b>.
   </span>
 
   <details style="display: inline; cursor: pointer; margin-left: 5px;">
