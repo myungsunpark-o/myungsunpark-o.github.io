@@ -40,52 +40,69 @@ My research focuses on implementing **human-like Physical AI in dexterous robot 
   </video>
 </div> -->
 
+네, 박사님! 여백에 검정색이 들어가지 않도록 background: transparent !important; 설정을 확실히 넣고, object-fit 속성을 조절해서 "잘리지 않으면서도 여백은 투명한" 상태로 만들어 드릴게요.
+
+보통 영상이나 이미지의 비율이 제각각일 때, object-fit: contain;을 쓰면 부족한 공간이 생기는데, 이때 배경을 투명하게 두면 웹사이트의 본문 배경색이 그대로 비쳐서 아주 깔끔하게 보입니다.
+
+🛠️ 최종 수정된 Research 페이지용 CSS & HTML
+이 코드를 적용하시면 웹에서는 무조건 한 줄, 모바일에서는 2x2, 그리고 모든 여백은 투명하게 처리됩니다.
+
+HTML
 <style>
-  /* 영상/이미지들을 감싸는 컨테이너 */
+  /* 미디어 컨테이너: 웹에서 한 줄 고정 */
   .media-container {
     display: flex;
-    flex-wrap: wrap;       /* 모바일에서 줄바꿈 허용 */
-    gap: 10px;             /* 미디어 사이 간격 */
+    flex-wrap: nowrap;     /* 웹에서는 절대 줄바꿈 금지 */
+    gap: 15px;             /* 미디어 사이 여백 */
     width: 100%;
-    justify-content: center; /* 중앙 정렬 */
-    margin-top: 15px;
+    justify-content: center; 
+    margin-top: 20px;
+    background: transparent !important;
   }
 
-  /* 개별 영상/이미지 공통 스타일 */
+  /* 개별 미디어 아이템: Raw 이미지 느낌 그대로 */
   .media-item {
-    height: 200px;         /* 핵심: 높이를 일정하게 고정 (박사님 취향에 맞게 조절 가능) */
-    flex: 1 1 auto;        /* 너비는 영상 비율에 맞춰 유연하게 조절 */
-    min-width: 150px;      /* 너무 작아지는 것 방지 */
-    max-width: 100%;       /* 화면 밖으로 나가는 것 방지 */
-    object-fit: contain;   /* 비율 유지 */
-    background: #000;      /* 비율 차이로 생기는 여백 검정 처리 */
-    border-radius: 4px;
+    height: 180px;         /* 높이 고정 (원하시는 대로 조절) */
+    flex: 1 1 auto;        /* 비율에 맞춰 너비 유연하게 조절 */
+    min-width: 0;          /* 한 줄에 꽉 차게 줄어들 수 있도록 허용 */
+    
+    /* 핵심 설정 */
+    object-fit: contain;   /* 영상/이미지가 잘리지 않고 전체가 다 보임 */
+    background: transparent !important; /* 여백을 검정색이 아닌 투명하게 */
+    
+    /* 스타일 제거 (Raw) */
+    border: none !important;
+    border-radius: 0 !important;
+    box-shadow: none !important;
     display: block;
   }
 
-  /* 모바일 대응 (화면 너비가 768px 이하일 때) */
+  /* 모바일 대응: 768px 이하에서 2x2 격자 */
   @media (max-width: 768px) {
+    .media-container {
+      flex-wrap: wrap;     /* 모바일에서는 줄바꿈 허용 */
+      gap: 10px;
+    }
     .media-item {
-      height: 150px;       /* 모바일에서는 높이를 살짝 줄임 */
-      flex: 1 1 45%;       /* 약 2개씩 한 줄에 배치 (gap 포함) */
+      height: 140px;       /* 모바일에서는 높이를 살짝 줄임 */
+      flex: 1 1 45%;       /* 약 2개씩 한 줄에 배치 */
     }
   }
 </style>
 
 <div class="media-container">
-  
-  <img src="/images/research/Research1-1.png" alt="Tactile Sensing Capture" class="media-item" />
-  
   <video autoplay loop muted playsinline class="media-item">
-    <source src="/images/research/Research1-2.mp4" type="video/mp4">
+    <source src="/images/research/Research1_1.mp4" type="video/mp4">
   </video>
   
   <video autoplay loop muted playsinline class="media-item">
-    <source src="/images/research/Research1-3.mp4" type="video/mp4">
+    <source src="/images/research/Research1_2.mp4" type="video/mp4">
   </video>
   
+  <img src="/images/research/Research1_3.png" alt="Research Image" class="media-item" />
+  
   <video autoplay loop muted playsinline class="media-item">
-    <source src="/images/research/Research1-4.mp4" type="video/mp4">
+    <source src="/images/research/Research1_4.mp4" type="video/mp4">
   </video>
 </div>
 
