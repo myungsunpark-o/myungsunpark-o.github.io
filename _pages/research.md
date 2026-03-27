@@ -4,8 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-
-제 연구 목표는 정확한 동작, 정교한 감각 및 고차원 지능을 활용하여 불확실하고, 동적이고, 접촉이 복잡한 환경에서도 다양한 작업을 수행하는 **사람의 조작 능력을 로봇 핸드에 구현**하는 것입니다. 보다 구체적으로는, **사람 손의 동작 분석**과 **로봇의 촉각 센싱**을 활용한 **사람을 닮은 물리적 인공지능**을 구현하고자 합니다.
+My research goal is to implement **human-like dexterous manipulation in robotic hands**, enabling them to perform diverse tasks even in uncertain, dynamic, and contact-rich environments by leveraging precise motion, sophisticated sensing, and high-level intelligence. More specifically, I aim to realize **human-like physical AI** through the analysis of **human hand motion** and **tactile sensing**.
 
 <hr style="margin: 30px 0;" />
 
