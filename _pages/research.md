@@ -56,12 +56,12 @@ My research focuses on implementing **human-like Physical AI in dexterous robot 
     
     <div style="display: block; margin: 15px 0; padding: 15px; background: #f9f9f9; border-left: 4px solid #ccc; border-radius: 4px; box-shadow: inset 0 0 5px rgba(0,0,0,0.02); cursor: default;">
       <div style="font-size: 1.0em; font-weight: bold; color: #333; margin-bottom: 5px;">Haptic Feedback Devices for Teleoperation</div>
-      <p style="margin-top: 0; margin-bottom: 15px;"><i>IPMC Actuator-based Haptic Feedback</i> achieved enhanced remote grasping by a miniature gripper using a motion-capture glove.</p>
+      <p style="margin-top: 0; margin-bottom: 15px;"><i>IPMC Actuator-based Haptic Feedback</i> achieved enhanced remote grasping using a miniature gripper.</p>
     
       <div style="font-size: 1.0em; font-weight: bold; color: #333; margin-bottom: 5px;">Benchmarking Tactile Sensors for Imitation Learning</div>
       <p style="margin-top: 0; margin-bottom: 15px;"><i>Visuo-tactile Policy Evaluation</i> identified the impact of six different tactile modalities on imitation learning for various manipulation tasks. </p>
     
-      <div style="font-size: 1.0em; font-weight: bold; color: #333; margin-bottom: 0;">Development of Multimodal Sensors and Underwater Appliations</div>
+      <div style="font-size: 1.0em; font-weight: bold; color: #333; margin-bottom: 0;">Development of Multimodal Sensors and Underwater Applications</div>
       <p style="margin-top: 0; margin-bottom: 0;"><i>Multi-Modal Flow Sensors</i> enabled simultaneous estimation of complex flow structures and robotic movement via shear and high-frequency components in fluid-structure interaction. </p>
       
     </div>
@@ -92,7 +92,7 @@ My research focuses on implementing **human-like Physical AI in dexterous robot 
     <div style="display: block; margin: 15px 0; padding: 15px; background: #f9f9f9; border-left: 4px solid #ccc; border-radius: 4px; box-shadow: inset 0 0 5px rgba(0,0,0,0.02); cursor: default;">
     
     <div style="font-size: 1.0em; font-weight: bold; color: #333; margin-bottom: 5px;">Hybrid System Modeling for Vision-free Manipulation</div>
-    <p style="margin-top: 0; margin-bottom: 15px;"><i>Defining Hybrid Variables</i> modeled human semantic decision-making processes in grasping tasks. <i>Proprioceptive Sensing</i>: enables complex manipulation without visual input. </p>
+    <p style="margin-top: 0; margin-bottom: 15px;"><i>Defining Hybrid Variables</i> modeled human semantic decision-making processes in grasping tasks. <i>Proprioceptive Sensing</i> enables complex manipulation without visual feedback. </p>
   
     <div style="font-size: 1.0em; font-weight: bold; color: #333; margin-bottom: 0;">State Estimation and Autonomous Gripper Systems</div>
     <p style="margin-top: 0; margin-bottom: 0;"><i>Proprioceptive Sensor Model</i> guided the control system to robustly predict discrete physical events and contacts along with continuous poses of the robot and object. </p>
