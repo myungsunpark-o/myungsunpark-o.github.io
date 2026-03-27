@@ -63,7 +63,7 @@ author_profile: true
       <p style="margin-top: 0; margin-bottom: 15px;">Visuo-tactile 모방학습 정책 기반 다양한 조작 작업을 수행하기 위한 다양한 촉각 모달리티를 벤치마킹.</p>
 
       <div style="font-size: 1.0em; font-weight: bold; color: #333; margin-bottom: 5px;">멀티모달 센서의 개발과 수중 로봇 어플리케이션</div>
-      <p style="margin-top: 0; margin-bottom: 0;">전단력과 고주파 진동을 동시에 측정하는 멀티모달 유속 센서의 개발. 수중 로봇 표면의 유체-구조 상호작용의 측정을 통한 운동 및 환경의 정확한 측정.</p>
+      <p style="margin-top: 0; margin-bottom: 0;">전단력과 고주파 진동을 동시에 측정하는 멀티모달 유속 센서의 개발. 수중 로봇 표면의 유체-구조 상호작용을 통한 운동 및 환경의 정확한 추정.</p>
     </div>
   </details>
 </div>
