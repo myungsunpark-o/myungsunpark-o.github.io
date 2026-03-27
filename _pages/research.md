@@ -28,7 +28,7 @@ My research focuses on implementing **human-like Physical AI in dexterous robot 
       <p style="margin-top: 0; margin-bottom: 15px;"><i>Calibration-free sensing</i> achieved state-of-the-art accuracy using highly stretchable strain sensors that conform and auto-calibrate to diverse hand shapes. <i>Versatile application</i> demonstrated high performance in various virtual reality and human-robot interaction scenarios. </p>
 
       <div style="font-size: 1.0em; font-weight: bold; color: #333; margin-bottom: 5px;">Intuitive Teleoperation of Multi-finger Robotic Hands</div>
-      <p style="margin-top: 0; margin-bottom: 0;"><i>Seamless human-robot interface</i> enables intuitive control of multi-DoF robot hands. <i>Dexterous manipulation</i> implements precise fingertip control and multi-finger coordination for complex tasks. </p>
+      <p style="margin-top: 0; margin-bottom: 0;"><i>Seamless human-robot interface</i> enables intuitive control of multi-DoF robot hands. <i>Dexterous manipulation</i> implemented precise fingertip control and multi-finger coordination for complex tasks. </p>
     </div>
   </details>
 </div>
@@ -92,7 +92,7 @@ My research focuses on implementing **human-like Physical AI in dexterous robot 
     <div style="display: block; margin: 15px 0; padding: 15px; background: #f9f9f9; border-left: 4px solid #ccc; border-radius: 4px; box-shadow: inset 0 0 5px rgba(0,0,0,0.02); cursor: default;">
     
     <div style="font-size: 1.0em; font-weight: bold; color: #333; margin-bottom: 5px;">Hybrid System Modeling for Vision-Free Manipulation</div>
-    <p style="margin-top: 0; margin-bottom: 15px;"><i>Defining hybrid variables</i> modeled human semantic decision-making processes in grasping tasks. <i>Proprioceptive Sensing</i> enables complex manipulation without visual feedback. </p>
+    <p style="margin-top: 0; margin-bottom: 15px;"><i>Defining hybrid variables</i> modeled human semantic decision-making processes in grasping tasks. <i>Proprioceptive Sensing</i> enabled complex manipulation without visual feedback. </p>
   
     <div style="font-size: 1.0em; font-weight: bold; color: #333; margin-bottom: 0;">State Estimation and Autonomous Gripper Systems</div>
     <p style="margin-top: 0; margin-bottom: 0;"><i>Proprioceptive sensor model</i> guided the control system to robustly predict discrete physical events and contacts along with continuous poses of the robot and object. </p>
