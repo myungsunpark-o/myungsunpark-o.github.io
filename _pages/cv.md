@@ -74,7 +74,7 @@ Patents
 
 ### Filed
 
-6. <span style="color: #268bd2 !important;">Flow sensor for underwater robots</span>, **Myungsun Park**, Geno Pawlak, Michael T. Tolley, US Patent App. No. 63/912,066 (Filed on 2025/11/5).
+6. <span style="color: #268bd2 !important;">Flow Sensor for Underwater Robots</span>, **Myungsun Park**, Geno Pawlak, Michael T. Tolley, US Patent App. No. 63/912,066 (Filed on 2025/11/5).
 5. <a href="https://patents.google.com/patent/US20250374976A1" class="patent-link">Soft Sensing Glove</a>, Yong-Lae Park, **Myungsun Park**, Taejun Park, Sohee Yoon, US Patent App. No. 19/224,848 (Filed on 2025/6/1).
 4. <a href="https://doi.org/10.8080/1020250015203" class="patent-link">Soft Sensing Glove</a>, Yong-Lae Park, **Myungsun Park**, Taejun Park, Sohee Yoon, Korean Patent App. No. 10-2025-0015203 (Filed on 2025/2/6).
 3. <span style="color: #268bd2 !important;">Sensor-Integrated Actuator, and Haptic Feedback System Using Same</span>, Moon Jeong Park, Yong-Lae Park, **Myungsun Park**, Hyeon Seong Ham, China Patent App. No. 202410332777.1 (Filed on 2024/3/22).
