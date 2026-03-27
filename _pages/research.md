@@ -94,7 +94,7 @@ author_profile: true
       <p style="margin-top: 0; margin-bottom: 15px;">이산 변수와 연속 변수를 나누어 정의함으로써 파지 작업에서 촉각을 활용한 사람의 semantic 의사 결정 과정을 모델링.</p>
 
       <div style="font-size: 1.0em; font-weight: bold; color: #333; margin-bottom: 5px;">로봇의 상태 추정과 자동 파지 작업</div>
-      <p style="margin-top: 0; margin-bottom: 15px;">내장된 액체 금속 센서를 활용해 접촉 여부와 로봇 및 물체의 상대적 pose를 예측하여 강건하게 파지하는 제어 시스템.</p>
+      <p style="margin-top: 0; margin-bottom: 15px;">불연속적 이벤트에 대한 자가 감각 센서 신호의 응답을 모델링 함으로써 실시간으로 접촉 여부와 로봇 및 물체의 상대적 pose를 예측하여 강건하게 파지하는 제어 시스템.</p>
     </div>
   </details>
 </div>
