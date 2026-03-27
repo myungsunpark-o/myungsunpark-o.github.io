@@ -8,27 +8,21 @@ redirect_from:
 ---
 
 <style>
-  .page__content a, 
-  .page__content a:visited {
-    text-decoration: none !important;
+  .patent-link {
     color: #268bd2 !important;
+    text-decoration: none !important;
+    font-weight: normal !important;
   }
-
-  .page__content a:hover {
+  .patent-link:hover {
     text-decoration: underline !important;
   }
-
-  .sidebar a {
-    color: inherit !important;
-    text-decoration: none !important;
-  }
-  
-  h1 {
-    margin-top: 2em !important;
-    border-bottom: 1px solid #eee;
-    padding-bottom: 10px;
-  }
 </style>
+
+<ol class="pub-list" reversed>
+  <li>
+    <a href="https://doi.org/10.8080/1020210111235" class="patent-link">Forming Mold</a>, Junghan Kwon...
+  </li>
+  </ol>
 
 You can download my full CV <a href="https://myungsunpark-o.github.io/files/CV%20-%20Myungsun%20Park.pdf" style="color: #268bd2 !important; font-weight: normal !important;">here</a>.
 
@@ -80,15 +74,15 @@ Teaching and Service
 Patents
 ======
 
-3. <a href="https://doi.org/10.8080/1020210111235">Forming Mold</a>, Junghan Kwon, Yong-Lae Park, **Myungsun Park**, Jaeyoun Choi, Korean Patent No. 10-2789308-0000 (2025/03/26).
-2. <a href="https://doi.org/10.8080/1020210115721">Variable Stiffness Structure with Sandwich Structure</a>, Yong-Lae Park, Junghan Kwon, Inrak Choi, **Myungsun Park**, Bomin Jeong,  Korean Patent No. 10-2658664-0000 (2024/04/15).
-1. <a href="https://doi.org/10.8080/1020200035123">Optical Sensing Actuator, Soft Robot Having The Same Manufacturing Methods of Optical Sensing Actuator</a>, Yong-Lae Park, Jaewoong Jung, **Myungsun Park**, Korean Patent No. 10-2275900-0000 (2021/07/05).
+3. <a href="https://doi.org/10.8080/1020210111235" class="patent-link">Forming Mold</a>, Junghan Kwon, Yong-Lae Park, **Myungsun Park**, Jaeyoun Choi, Korean Patent No. 10-2789308-0000 (2025/03/26).
+2. <a href="https://doi.org/10.8080/1020210115721" class="patent-link">Variable Stiffness Structure with Sandwich Structure</a>, Yong-Lae Park, Junghan Kwon, Inrak Choi, **Myungsun Park**, Bomin Jeong,  Korean Patent No. 10-2658664-0000 (2024/04/15).
+1. <a href="https://doi.org/10.8080/1020200035123" class="patent-link">Optical Sensing Actuator, Soft Robot Having The Same Manufacturing Methods of Optical Sensing Actuator</a>, Yong-Lae Park, Jaewoong Jung, **Myungsun Park**, Korean Patent No. 10-2275900-0000 (2021/07/05).
 
 ### Filed
 
 6. <span style="color: #268bd2 !important;">Flow sensor for underwater robots</span>, **Myungsun Park**, Geno Pawlak, Michael T. Tolley, US Patent App. No. 63/912,066 (Filed on 2025/11/5).
-5. <a href="https://patents.google.com/patent/US20250374976A1">Soft Sensing Glove</a>, Yong-Lae Park, **Myungsun Park**, Taejun Park, Sohee Yoon, US Patent App. No. 19/224,848 (Filed on 2025/6/1).
-4. <a href="https://doi.org/10.8080/1020250015203">Soft Sensing Glove</a>, Yong-Lae Park, **Myungsun Park**, Taejun Park, Sohee Yoon, Korean Patent App. No. 10-2025-0015203 (Filed on 2025/2/6).
+5. <a href="https://patents.google.com/patent/US20250374976A1" class="patent-link">Soft Sensing Glove</a>, Yong-Lae Park, **Myungsun Park**, Taejun Park, Sohee Yoon, US Patent App. No. 19/224,848 (Filed on 2025/6/1).
+4. <a href="https://doi.org/10.8080/1020250015203" class="patent-link">Soft Sensing Glove</a>, Yong-Lae Park, **Myungsun Park**, Taejun Park, Sohee Yoon, Korean Patent App. No. 10-2025-0015203 (Filed on 2025/2/6).
 3. <span style="color: #268bd2 !important;">Sensor-Integrated Actuator, and Haptic Feedback System Using Same</span>, Moon Jeong Park, Yong-Lae Park, **Myungsun Park**, Hyeon Seong Ham, China Patent App. No. 202410332777.1 (Filed on 2024/3/22).
-2. <a href="https://patents.google.com/patent/US20240321067A1">Sensor-Integrated Actuator, and Haptic Feedback System Using Same</a>, Moon Jeong Park, Yong-Lae Park, **Myungsun Park**, Hyeon Seong Ham, US Patent App. No. 18/612,259 (Filed on 2024/3/21).
-1. <a href="https://doi.org/10.8080/1020240038697">Sensor-Integrated Actuator, and Haptic Feedback System Using Same</a>, Moon Jeong Park, Yong-Lae Park, **Myungsun Park**, Hyeon Seong Ham, Korean Patent App. No. 1020240038697 (Filed on 2024/3/20).
+2. <a href="https://patents.google.com/patent/US20240321067A1" class="patent-link">Sensor-Integrated Actuator, and Haptic Feedback System Using Same</a>, Moon Jeong Park, Yong-Lae Park, **Myungsun Park**, Hyeon Seong Ham, US Patent App. No. 18/612,259 (Filed on 2024/3/21).
+1. <a href="https://doi.org/10.8080/1020240038697" class="patent-link">Sensor-Integrated Actuator, and Haptic Feedback System Using Same</a>, Moon Jeong Park, Yong-Lae Park, **Myungsun Park**, Hyeon Seong Ham, Korean Patent App. No. 1020240038697 (Filed on 2024/3/20).
