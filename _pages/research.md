@@ -68,11 +68,11 @@ My research focuses on implementing **human-like Physical AI in dexterous robot 
   </details>
 </div>
 
-<div style="display: flex; gap: 10px; align-items: flex-start; margin-top: 15px; flex-wrap: nowrap;">
-  <img src="/images/research/2_1_hapticteleop.png" style="height: 130px; width: auto; object-fit: contain; border-radius: 8px; border: 1px solid #eee;">
-  <img src="/images/research/2_2_tactilebenchmark.png" style="height: 130px; width: auto; object-fit: contain; border-radius: 8px; border: 1px solid #eee;">
-  <img src="/images/research/2_3_flowsensor.png" style="height: 130px; width: auto; object-fit: contain; border-radius: 8px; border: 1px solid #eee;">
-  <img src="/images/research/2_5_robotestimation.png" style="height: 130px; width: auto; object-fit: contain; border-radius: 8px; border: 1px solid #eee;">
+<div style="width: 100%; margin-top: 15px;">
+  <video autoplay loop muted playsinline style="width: 100%; height: auto; display: block;">
+    <source src="/images/research/Research2.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </div>
 
 <hr style="margin: 30px 0;" />
