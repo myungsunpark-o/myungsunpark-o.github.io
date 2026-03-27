@@ -8,7 +8,7 @@ redirect_from:
 ---
 ---
 I am currently a postdoctoral scholar at University of California San Diego, working with Prof. <a href="https://bioinspired.ucsd.edu/home" style="color: #268bd2 !important; font-weight: normal !important; text-decoration: none !important;">Michael T. Tolley</a> and Prof. <a href="https://efdlab.ucsd.edu/home" style="color: #268bd2 !important; font-weight: normal !important; text-decoration: none !important;">Geno Pawlak</a>.
-I earned my PhD from Seoul National University with Prof. <a href="https://softrobotics.snu.ac.kr/" style="color: #268bd2 !important; font-weight: normal !important; text-decoration: none !important;">Yong-Lae Park</a> (Dissertation: <a href="/files/2024_Dissertation_Enhanced.pdf" style="color: #000000 !important; font-weight: bold !important; font-style: italic !important; text-decoration: underline !important;">Enhanced Human-Robot-Environment Interactions Enabled by Multi-Stiffness Soft Sensors and Interactive Control</a>).
+I earned my PhD from Seoul National University with Prof. <a href="https://softrobotics.snu.ac.kr/" style="color: #268bd2 !important; font-weight: normal !important; text-decoration: none !important;">Yong-Lae Park</a> (Dissertation: <a href="/files/2024_Dissertation_Enhanced.pdf" style="color: inherit !important; font-weight: bold !important; font-style: italic !important; text-decoration: underline !important;">Enhanced Human-Robot-Environment Interactions Enabled by Multi-Stiffness Soft Sensors and Interactive Control</a>).
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; width: 100%; margin: 30px 0;">
   
