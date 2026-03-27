@@ -8,11 +8,11 @@ My research focuses on implementing **human-like Physical AI in dexterous robot 
 
 <hr style="margin: 30px 0;" />
 
-# Accurate Hand Motion Capture for Dexterous Robotic Manipulation
+# Motion Capture Glove for Dexterous Robotic Manipulation
 
 <div style="display: block; margin-bottom: 15px;">
   <span style="display: inline;">
-    Humans perform complex manipulation tasks through the coordination of multiple fingers. Implementing this level of dexterous robotic manipulation via Physical AI requires high-quality datasets, which are often challenging to acquire. I address this issue by developing wearable devices that accurately measure all degrees of freedom in human fingers. This approach enables intuitive teleoperation of dexterous robotic hands, facilitating complex tasks that are otherwise difficult to demonstrate.
+    Humans perform complex manipulation tasks through the coordination of multiple fingers. Implementing this level of dexterous robotic manipulation via **Physical AI requires high-quality datasets**, which are often challenging to acquire. I address this issue by developing wearable devices that accurately measure all degrees of freedom in human fingers. This approach enables intuitive teleoperation of dexterous robotic hands, facilitating complex tasks that are otherwise difficult to demonstrate.
     
   </span>
 
@@ -23,13 +23,13 @@ My research focuses on implementing **human-like Physical AI in dexterous robot 
     
     <div style="display: block; margin: 15px 0; padding: 15px; background: #f9f9f9; border-left: 4px solid #ccc; border-radius: 4px; box-shadow: inset 0 0 5px rgba(0,0,0,0.02); cursor: default;">
       <div style="font-size: 1.0em; font-weight: bold; color: #333; margin-bottom: 5px;">Hand Motion Capture and Post-processing with Enhanced Accuracy</div>
-      <p style="margin-top: 0; margin-bottom: 15px;">**Robust Rotation-based MoCap**: Outperforms position-based estimation in accuracy. **Geometry Decoupling**: Solves the retargeting problem by separating user-independent and dependent variables. </p>
+      <p style="margin-top: 0; margin-bottom: 15px;"><i>Robust Rotation-based MoCap</i> outperforms position-based estimation in accuracy. <i>Geometry Decoupling</i> solves the retargeting problem by separating user-independent and dependent variables. </p>
 
       <div style="font-size: 1.0em; font-weight: bold; color: #333; margin-bottom: 5px;">Stretchable Motion Capture Glove</div>
-      <p style="margin-top: 0; margin-bottom: 15px;">**Calibration-free Sensing**: Achieves state-of-the-art accuracy using highly stretchable strain sensors that conform and auto-calibrate to diverse hand shapes. **Versatile Application**: Demonstrated high performance in various virtual reality (VR) and human-robot interaction scenarios. </p>
+      <p style="margin-top: 0; margin-bottom: 15px;"><i>Calibration-free Sensing</i> achieves state-of-the-art accuracy using highly stretchable strain sensors that conform and auto-calibrate to diverse hand shapes. <i>Versatile Application</i> demonstrated high performance in various virtual reality (VR) and human-robot interaction scenarios. </p>
 
       <div style="font-size: 1.0em; font-weight: bold; color: #333; margin-bottom: 5px;">Intuitive Teleoperation of Multi-finger Robotic Hands</div>
-      <p style="margin-top: 0; margin-bottom: 0;">**Seamless Human-Robot Interface**: Enables intuitive control of multi-DoF robot hands. **Dexterous Manipulation**: Implements precise fingertip control and multi-finger coordination for complex tasks. </p>
+      <p style="margin-top: 0; margin-bottom: 0;"><i>Seamless Human-Robot Interface</i> enables intuitive control of multi-DoF robot hands. <i>Dexterous Manipulation</i> implements precise fingertip control and multi-finger coordination for complex tasks. </p>
     </div>
   </details>
 </div>
