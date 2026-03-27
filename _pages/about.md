@@ -8,31 +8,23 @@ redirect_from:
 ---
 I am currently a postdoctoral scholar at University of California San Diego, working with Prof. [Michael T. Tolley](https://bioinspired.ucsd.edu/home) and Prof. [Geno Pawlak](https://efdlab.ucsd.edu/home). I earned my PhD from Seoul National Universiy with Prof. [Yong-Lae Park](https://softrobotics.snu.ac.kr/) (Dissertation: *Enhanced Human-Robot-Environment Interactions Enabled by Multi-Stiffness Soft Sensors and Interactive Control*).
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; width: 100%; justify-content: center; margin: 30px 0;">
+<div style="display: grid; grid-template-columns: 1 backward 1fr; gap: 10px; width: 100%; margin: 30px 0;">
   
-  <div style="flex: 0 0 calc(50% - 5px);">
-    <video autoplay loop muted playsinline style="width: 100%; height: 180px; object-fit: cover; display: block;">
-      <source src="/images/research/Main1.mp4" type="video/mp4">
-    </video>
-  </div>
+  <video autoplay loop muted playsinline style="width: 100%; height: 180px; object-fit: cover; display: block;">
+    <source src="/images/research/Main1.mp4" type="video/mp4">
+  </video>
 
-  <div style="flex: 0 0 calc(50% - 5px);">
-    <video autoplay loop muted playsinline style="width: 100%; height: 180px; object-fit: cover; display: block;">
-      <source src="/images/research/Main2.mp4" type="video/mp4">
-    </video>
-  </div>
+  <video autoplay loop muted playsinline style="width: 100%; height: 180px; object-fit: cover; display: block;">
+    <source src="/images/research/Main2.mp4" type="video/mp4">
+  </video>
 
-  <div style="flex: 0 0 calc(50% - 5px);">
-    <video autoplay loop muted playsinline style="width: 100%; height: 180px; object-fit: cover; display: block;">
-      <source src="/images/research/Main3.mp4" type="video/mp4">
-    </video>
-  </div>
+  <video autoplay loop muted playsinline style="width: 100%; height: 180px; object-fit: cover; display: block;">
+    <source src="/images/research/Main3.mp4" type="video/mp4">
+  </video>
 
-  <div style="flex: 0 0 calc(50% - 5px);">
-    <video autoplay loop muted playsinline style="width: 100%; height: 180px; object-fit: cover; display: block;">
-      <source src="/images/research/Main4.mp4" type="video/mp4">
-    </video>
-  </div>
+  <video autoplay loop muted playsinline style="width: 100%; height: 180px; object-fit: cover; display: block;">
+    <source src="/images/research/Main4.mp4" type="video/mp4">
+  </video>
 
 </div>
 
