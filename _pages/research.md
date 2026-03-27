@@ -74,18 +74,18 @@ My research focuses on implementing **human-like Physical AI in dexterous robot 
 
 <div class="media-container">
   
-  <img src="/images/research/Research1_1.png" alt="Tactile Sensing Capture" class="media-item" />
+  <img src="/images/research/Research1-1.png" alt="Tactile Sensing Capture" class="media-item" />
   
   <video autoplay loop muted playsinline class="media-item">
-    <source src="/images/research/Research1_2.mp4" type="video/mp4">
+    <source src="/images/research/Research1-2.mp4" type="video/mp4">
   </video>
   
   <video autoplay loop muted playsinline class="media-item">
-    <source src="/images/research/Research1_3.mp4" type="video/mp4">
+    <source src="/images/research/Research1-3.mp4" type="video/mp4">
   </video>
   
   <video autoplay loop muted playsinline class="media-item">
-    <source src="/images/research/Research1_4.mp4" type="video/mp4">
+    <source src="/images/research/Research1-4.mp4" type="video/mp4">
   </video>
 </div>
 
