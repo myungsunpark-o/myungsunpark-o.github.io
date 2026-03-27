@@ -33,8 +33,8 @@ My research focuses on implementing **human-like Physical AI in dexterous robot 
   </details>
 </div>
 
-<div style="width: 100%; margin-top: 20px;">
-  <video autoplay loop muted playsinline style="width: 100%; height: auto; border-radius: 8px; border: 1px solid #eee; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
+<div style="width: 100%; margin-top: 15px;">
+  <video autoplay loop muted playsinline style="width: 100%; height: auto; display: block;">
     <source src="/images/research/Research1.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
