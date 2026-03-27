@@ -14,20 +14,17 @@ author_profile: true
 <style>
   /* 논문 제목 기본 스타일 */
   .pub-title {
-    color: #268bd2 !important;     /* 박사님 시그니처 파란색 */
-    font-weight: bold !important;  /* 논문 제목은 볼드가 가독성이 좋습니다 */
-    text-decoration: none !important; /* 밑줄 제거 */
+    color: #268bd2 !important;
+    font-weight: normal !important;
+    text-decoration: none !important;
   }
 
-  /* 마우스를 올렸을 때만 밑줄 표시 (링크임을 알림) */
   .pub-title:hover {
     text-decoration: underline !important;
   }
 
-  /* 저널/컨퍼런스 이름 스타일 (DOI 링크 등) */
-  /* li 안의 두 번째 링크나 특정 스타일을 가진 링크를 타겟팅 */
   .publication-list li a:not(.pub-title) {
-    color: inherit !important;     /* 본문 색상 상속 (다크모드 자동 대응) */
+    color: inherit !important;
     font-weight: bold !important;
     font-style: italic !important;
     text-decoration: none !important;
