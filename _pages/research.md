@@ -46,7 +46,7 @@ My research focuses on implementing **human-like Physical AI in dexterous robot 
 
 <div style="display: block; margin-bottom: 15px;">
   <span style="display: inline;">
-    Humans perceive and interact with uncertain objects and environments using not only complex finger movements but also sophisticated tactile sensations. My research focuses on developing haptic feedback devices and tactile/environmental sensing technologies to implement this level of refined interaction in robots. This approach enables the development of multimodal <b>tactile sensors for enhanced manipulation and adaptive robotic technologies for diverse environments</b>.
+    Humans perceive and interact with uncertain objects and environments using not only complex finger movements but also sophisticated tactile sensations. My research focuses on developing haptic feedback devices and tactile/environmental sensing technologies to implement this level of refined interaction in robots. This approach enables the development of multimodal <b>tactile sensors for enhanced manipulation and adaptive robots</b> in diverse environments.
   </span>
 
   <details style="display: inline; cursor: pointer; margin-left: 5px;">
