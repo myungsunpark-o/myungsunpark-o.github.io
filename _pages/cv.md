@@ -6,8 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
-You can download my full CV <a href="https://myungsunpark-o.github.io/files/CV%20-%20MyungsunPark.pdf" style="color: #268bd2 !important; font-weight: normal !important; text-decoration: underline !important;">here</a>.
+You can download my full CV <a href="https://myungsunpark-o.github.io/files/CV%20-%20Myungsun%20Park.pdf" style="color: #268bd2 !important; font-weight: normal !important; text-decoration: underline !important;">here</a>.
 <hr style="margin: 30px 0;" />
 
 Education
