@@ -45,6 +45,92 @@ My research focuses on implementing **human-like Physical AI in dexterous robot 
   .media-container {
     display: flex;
     flex-wrap: nowrap;     /* 웹에서는 절대 줄바꿈 금지 */
+    gap: 12px;             /* 미디어 사이 여백 */
+    width: 100%;
+    justify-content: center; 
+    margin: 20px 0;
+    background: transparent !important;
+  }
+
+  /* 개별 미디어 아이템: Raw 이미지 느낌 그대로 */
+  .media-item {
+    height: 180px;         /* 모든 섹션 높이 통일 */
+    flex: 1 1 auto;        /* 비율에 맞춰 너비 유연하게 조절 */
+    min-width: 0;          /* 한 줄에 꽉 차게 줄어들 수 있도록 허용 */
+    
+    object-fit: contain;   /* 영상/이미지가 잘리지 않고 전체가 다 보임 */
+    background: transparent !important; /* 여백은 투명하게 */
+    
+    /* 스타일 제거 (Raw) */
+    border: none !important;
+    border-radius: 0 !important;
+    box-shadow: none !important;
+    display: block;
+  }
+
+  /* 모바일 대응: 768px 이하에서 2x2 격자 */
+  @media (max-width: 768px) {
+    .media-container {
+      flex-wrap: wrap;     /* 모바일에서는 줄바꿈 허용 */
+      gap: 10px;
+    }
+    .media-item {
+      height: 140px;       /* 모바일에서는 높이를 살짝 줄임 */
+      flex: 1 1 45%;       /* 약 2개씩 한 줄에 배치 */
+    }
+  }
+</style>
+
+<div class="media-container">
+  
+  <img src="/images/research/Research1-1.png" alt="Research Data" class="media-item" />
+  
+  <video autoplay loop muted playsinline class="media-item">
+    <source src="/images/research/Research1-2.mp4" type="video/mp4">
+  </video>
+  
+  <video autoplay loop muted playsinline class="media-item">
+    <source src="/images/research/Research1-3.mp4" type="video/mp4">
+  </video>
+  
+  <video autoplay loop muted playsinline class="media-item">
+    <source src="/images/research/Research1-4.mp4" type="video/mp4">
+  </video>
+</div>
+
+<hr style="margin: 30px 0;" />
+
+# Tactile Sensing and Haptic Feedback for Sophisticated Interaction
+
+<div style="display: block; margin-bottom: 15px;">
+  <span style="display: inline;">
+    Humans perceive and interact with uncertain objects and environments using not only complex finger movements but also sophisticated tactile sensations. My research focuses on developing haptic feedback devices and tactile/environmental sensing technologies to implement this level of refined interaction in robots. This approach enables the development of multimodal <b>tactile sensors for enhanced manipulation and adaptive robots</b> in diverse environments.
+  </span>
+
+  <details style="display: inline; cursor: pointer; margin-left: 5px;">
+    <summary style="display: inline; font-weight: bold; color: #268bd2; list-style: none; font-size: 1em;">
+      [View details]
+    </summary>
+    
+    <div style="display: block; margin: 15px 0; padding: 15px; background: rgba(128, 128, 128, 0.05); border-left: 4px solid #268bd2; border-radius: 4px; cursor: default; color: inherit !important;">
+      <div style="font-size: 1.0em; font-weight: bold; color: inherit; margin-bottom: 5px;">Haptic Feedback Devices for Teleoperation</div>
+      <p style="margin-top: 0; margin-bottom: 15px;"><i>IPMC actuator-based haptic feedback</i> achieved enhanced remote grasping using a miniature gripper.</p>
+    
+      <div style="font-size: 1.0em; font-weight: bold; color: inherit; margin-bottom: 5px;">Benchmarking Tactile Sensors for Imitation Learning</div>
+      <p style="margin-top: 0; margin-bottom: 15px;"><i>Visuo-tactile policy evaluation</i> identified the impact of six different tactile modalities on imitation learning for various manipulation tasks. </p>
+    
+      <div style="font-size: 1.0em; font-weight: bold; color: inherit; margin-bottom: 0;">Development of Multimodal Sensors and Underwater Applications</div>
+      <p style="margin-top: 0; margin-bottom: 0;"><i>Multi-modal flow sensors</i> enabled simultaneous estimation of complex flow structures and robotic movement via shear and high-frequency components in fluid-structure interaction. </p>
+      
+    </div>
+  </details>
+</div>
+
+<style>
+  /* 미디어 컨테이너: 웹에서 한 줄 고정 */
+  .media-container {
+    display: flex;
+    flex-wrap: nowrap;     /* 웹에서는 절대 줄바꿈 금지 */
     gap: 15px;             /* 미디어 사이 여백 */
     width: 100%;
     justify-content: center; 
@@ -93,41 +179,6 @@ My research focuses on implementing **human-like Physical AI in dexterous robot 
   
   <video autoplay loop muted playsinline class="media-item">
     <source src="/images/research/Research2-3.mp4" type="video/mp4">
-  </video>
-</div>
-
-<hr style="margin: 30px 0;" />
-
-# Tactile Sensing and Haptic Feedback for Sophisticated Interaction
-
-<div style="display: block; margin-bottom: 15px;">
-  <span style="display: inline;">
-    Humans perceive and interact with uncertain objects and environments using not only complex finger movements but also sophisticated tactile sensations. My research focuses on developing haptic feedback devices and tactile/environmental sensing technologies to implement this level of refined interaction in robots. This approach enables the development of multimodal <b>tactile sensors for enhanced manipulation and adaptive robots</b> in diverse environments.
-  </span>
-
-  <details style="display: inline; cursor: pointer; margin-left: 5px;">
-    <summary style="display: inline; font-weight: bold; color: #268bd2; list-style: none; font-size: 1em;">
-      [View details]
-    </summary>
-    
-    <div style="display: block; margin: 15px 0; padding: 15px; background: rgba(128, 128, 128, 0.05); border-left: 4px solid #268bd2; border-radius: 4px; cursor: default; color: inherit !important;">
-      <div style="font-size: 1.0em; font-weight: bold; color: inherit; margin-bottom: 5px;">Haptic Feedback Devices for Teleoperation</div>
-      <p style="margin-top: 0; margin-bottom: 15px;"><i>IPMC actuator-based haptic feedback</i> achieved enhanced remote grasping using a miniature gripper.</p>
-    
-      <div style="font-size: 1.0em; font-weight: bold; color: inherit; margin-bottom: 5px;">Benchmarking Tactile Sensors for Imitation Learning</div>
-      <p style="margin-top: 0; margin-bottom: 15px;"><i>Visuo-tactile policy evaluation</i> identified the impact of six different tactile modalities on imitation learning for various manipulation tasks. </p>
-    
-      <div style="font-size: 1.0em; font-weight: bold; color: inherit; margin-bottom: 0;">Development of Multimodal Sensors and Underwater Applications</div>
-      <p style="margin-top: 0; margin-bottom: 0;"><i>Multi-modal flow sensors</i> enabled simultaneous estimation of complex flow structures and robotic movement via shear and high-frequency components in fluid-structure interaction. </p>
-      
-    </div>
-  </details>
-</div>
-
-<div style="width: 100%; margin-top: 15px;">
-  <video autoplay loop muted playsinline style="width: 100%; height: auto; display: block;">
-    <source src="/images/research/Research2.mp4" type="video/mp4">
-    Your browser does not support the video tag.
   </video>
 </div>
 
