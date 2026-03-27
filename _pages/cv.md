@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 <style>
-  a { color: #268bd2 !important; text-decoration: underline; }
-  a:hover { color: #268bd2 !important; text-decoration: underline; }
-  a:visited { color: #268bd2 !important; text-decoration: underline; }
+  .page__content a { color: #268bd2 !important; text-decoration: underline; }
+  .page__content a:hover { color: #268bd2 !important; text-decoration: underline; }
+  .page__content a:visited { color: #268bd2 !important; text-decoration: underline; }
 </style>
 
 You can download my full CV [here](https://myungsunpark-o.github.io/files/CV%20-%20MyungsunPark.pdf).
