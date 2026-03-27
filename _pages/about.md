@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 ---
-I am currently a postdoctoral scholar at University of California San Diego, working with <a href="https://bioinspired.ucsd.edu/home" style="color: #268bd2 !important; font-weight: bold !important; text-decoration: none !important;">Prof. Michael T. Tolley</a> and <a href="https://efdlab.ucsd.edu/home" style="color: #268bd2 !important; font-weight: bold !important; text-decoration: none !important;">Prof. Geno Pawlak</a>.
-I earned my PhD from Seoul National University with <a href="https://softrobotics.snu.ac.kr/" style="color: #268bd2 !important; font-weight: bold !important; text-decoration: none !important;">Prof. Yong-Lae Park</a> (Dissertation: *Enhanced Human-Robot-Environment Interactions Enabled by Multi-Stiffness Soft Sensors and Interactive Control*).
+I am currently a postdoctoral scholar at University of California San Diego, working with Prof. <a href="https://bioinspired.ucsd.edu/home" style="color: #268bd2 !important; font-weight: normal !important; text-decoration: none !important;">Michael T. Tolley</a> and Prof. <a href="https://efdlab.ucsd.edu/home" style="color: #268bd2 !important; font-weight: normal !important; text-decoration: none !important;">Geno Pawlak</a>.
+I earned my PhD from Seoul National University with Prof. <a href="https://softrobotics.snu.ac.kr/" style="color: #268bd2 !important; font-weight: normal !important; text-decoration: none !important;">Yong-Lae Park</a> (Dissertation: *Enhanced Human-Robot-Environment Interactions Enabled by Multi-Stiffness Soft Sensors and Interactive Control*).
 
 I am currently a postdoctoral scholar at University of California San Diego, working with Prof. Michael T. Tolley and Prof. Geno Pawlak. I earned my PhD from Seoul National Universiy with Prof. Yong-Lae Park (Dissertation: *Enhanced Human-Robot-Environment Interactions Enabled by Multi-Stiffness Soft Sensors and Interactive Control*).
 
