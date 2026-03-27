@@ -8,17 +8,17 @@ redirect_from:
 ---
 
 <style>
-  .pub-title {
-    color: #268bd2 !important; 
-    font-weight: bold;
-    text-decoration: none;
+  .page__content a, 
+  .page__content a:visited,
+  .page__content a:hover,
+  .page__content .pub-title {
+    color: #268bd2 !important;
+    font-weight: bold !important;
+    text-decoration: underline !important;
   }
-  .pub-title:hover {
-    text-decoration: underline;
-  }
-  /* 리스트 항목 간격 (선택사항) */
-  .cv-list li {
-    margin-bottom: 0.8em;
+  .not-linked-title {
+    color: #268bd2 !important;
+    font-weight: bold !important;
   }
 </style>
 
