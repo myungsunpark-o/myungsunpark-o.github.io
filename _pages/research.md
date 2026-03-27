@@ -42,7 +42,7 @@ My research focuses on implementing **human-like Physical AI in dexterous robot 
 
 <hr style="margin: 30px 0;" />
 
-# Multimodal Tactile Sensing and Haptic Feedback for Sophisticated Interaction
+# Tactile Sensing and Haptic Feedback for Sophisticated Interaction
 
 <div style="display: block; margin-bottom: 15px;">
   <span style="display: inline;">
