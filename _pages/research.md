@@ -4,15 +4,16 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-My research goal is to implement **dexterous manipulation in robotic hands**, enabling them to perform diverse tasks even in uncertain, dynamic, and contact-rich environments by leveraging precise motion, sophisticated sensing, and high-level intelligence. More specifically, I aim to realize **human-like physical AI** through the analysis of **human hand motion** and **tactile sensing**.
+My research focuses on implementing **human-like Physical AI in dexterous robot hands** by integrating **human hand motion** and **robot tactile sensing**. My ultimate goal is to enable robots to perform complex tasks in uncertain, dynamic, and contact-rich environments through precise motion, sophisticated sensing, and high-level intelligence.
 
 <hr style="margin: 30px 0;" />
 
-# 정확한 손 동작 측정과 로봇 핸드의 제어
+# Accurate Hand Motion Capture for Dexterous Robotic Manipulation
 
 <div style="display: block; margin-bottom: 15px;">
   <span style="display: inline;">
-    사람은 여러 손가락의 협동을 통해 복잡한 매니퓰레이션 작업을 수행합니다. 이와 같은 수준의 다자유도 로봇 매니퓰레이션을 physical AI로 구현하기 위해서는 양질의 데이터 확보가 필요하지만, 이를 확보하는 데 어려움이 있습니다. 저는 이 문제를 사람 손가락의 모든 자유도를 정확하게 측정하는 웨어러블 디바이스로 해결하고자 합니다. 이 접근은 다자유도 로봇 핸드의 쉽게 시연하기 어려운 복잡한 작업 수행을 손쉽게 가능하게 합니다. 
+    Humans perform complex manipulation tasks through the coordination of multiple fingers. Implementing this level of dexterous robotic manipulation via Physical AI requires high-quality datasets, which are often challenging to acquire. I address this issue by developing wearable devices that accurately measure all degrees of freedom in human fingers. This approach enables intuitive teleoperation of dexterous robotic hands, facilitating complex tasks that are otherwise difficult to demonstrate.
+    
   </span>
 
   <details style="display: inline; cursor: pointer; margin-left: 5px;">
@@ -21,14 +22,14 @@ My research goal is to implement **dexterous manipulation in robotic hands**, en
     </summary>
     
     <div style="display: block; margin: 15px 0; padding: 15px; background: #f9f9f9; border-left: 4px solid #ccc; border-radius: 4px; box-shadow: inset 0 0 5px rgba(0,0,0,0.02); cursor: default;">
-      <div style="font-size: 1.0em; font-weight: bold; color: #333; margin-bottom: 5px;">정확한 동작 측정을 위한 모션 캡쳐 및 후처리</div>
-      <p style="margin-top: 0; margin-bottom: 15px;">위치 기반 마커 추정에 비해 오차에 강건한 회전 기반 모션 캡쳐 방식 고안. 캡쳐 데이터를 개인별 서로 다른 손의 형상에 대해 user-independent, user-dependent variables로 분리하여 ___ 문제를 해결. </p>
+      <div style="font-size: 1.0em; font-weight: bold; color: #333; margin-bottom: 5px;">Hand Motion Capture and Post-processing with Enhanced Accuracy</div>
+      <p style="margin-top: 0; margin-bottom: 15px;">**Robust Rotation-based MoCap**: Outperforms position-based estimation in accuracy. **Geometry Decoupling**: Solves the retargeting problem by separating user-independent and dependent variables. </p>
 
-      <div style="font-size: 1.0em; font-weight: bold; color: #333; margin-bottom: 5px;">손 모양과 동작을 동시에 측정하는 데이터 장갑</div>
-      <p style="margin-top: 0; margin-bottom: 15px;">착용 순간 손 모양에 알맞게 늘어나는 Highly stretchable strain sensors를 통한 캘리브레이션-프리, state-of-the-art accuracy로 손의 동작을 실시간 추정. 다양한 가상 현실 어플리케이션에 활용. </p>
+      <div style="font-size: 1.0em; font-weight: bold; color: #333; margin-bottom: 5px;">Stretchable Motion Capture Glove</div>
+      <p style="margin-top: 0; margin-bottom: 15px;">**Calibration-free Sensing**: Achieves state-of-the-art accuracy using highly stretchable strain sensors that conform and auto-calibrate to diverse hand shapes. **Versatile Application**: Demonstrated high performance in various virtual reality (VR) and human-robot interaction scenarios. </p>
 
-      <div style="font-size: 1.0em; font-weight: bold; color: #333; margin-bottom: 5px;">로봇 핸드의 직관적인 원격 조작</div>
-      <p style="margin-top: 0; margin-bottom: 0;">여러 손가락의 협동과 손 끝의 정밀한 제어가 필요한 로봇 핸드의 dexterous manipulation 구현.</p>
+      <div style="font-size: 1.0em; font-weight: bold; color: #333; margin-bottom: 5px;">Intuitive Teleoperation of Multi-finger Robotic Hands</div>
+      <p style="margin-top: 0; margin-bottom: 0;">**Seamless Human-Robot Interface**: Enables intuitive control of multi-DoF robot hands. **Dexterous Manipulation**: Implements precise fingertip control and multi-finger coordination for complex tasks. </p>
     </div>
   </details>
 </div>
