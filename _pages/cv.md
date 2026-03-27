@@ -18,12 +18,6 @@ redirect_from:
   }
 </style>
 
-<ol class="pub-list" reversed>
-  <li>
-    <a href="https://doi.org/10.8080/1020210111235" class="patent-link">Forming Mold</a>, Junghan Kwon...
-  </li>
-  </ol>
-
 You can download my full CV <a href="https://myungsunpark-o.github.io/files/CV%20-%20Myungsun%20Park.pdf" style="color: #268bd2 !important; font-weight: normal !important;">here</a>.
 
 <hr style="margin: 30px 0;" />
