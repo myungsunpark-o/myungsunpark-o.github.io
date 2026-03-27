@@ -8,7 +8,7 @@ My research focuses on implementing **human-like Physical AI in dexterous robot 
 
 <hr style="margin: 30px 0;" />
 
-# Motion Capture Glove for Dexterous Robotic Manipulation
+# Dexterous Motion Capture using Wearable Glove
 
 <div style="display: block; margin-bottom: 15px;">
   <span style="display: inline;">
@@ -16,7 +16,7 @@ My research focuses on implementing **human-like Physical AI in dexterous robot 
   </span>
 
   <details style="display: inline; cursor: pointer; margin-left: 5px;">
-    <summary style="display: inline; font-weight: bold; color: #666; list-style: none; font-size: 0.9em;">
+    <summary style="display: inline; font-weight: bold; color: #268bd2; list-style: none; font-size: 0.9em;">
       [View details]
     </summary>
     
@@ -42,7 +42,7 @@ My research focuses on implementing **human-like Physical AI in dexterous robot 
 
 <hr style="margin: 30px 0;" />
 
-# Multimodal Tactile Sensing and Haptic Feedback for Sophisticated Physical Interaction
+# Multimodal Tactile Sensing and Haptic Feedback for Sophisticated Interaction
 
 <div style="display: block; margin-bottom: 15px;">
   <span style="display: inline;">
@@ -50,7 +50,7 @@ My research focuses on implementing **human-like Physical AI in dexterous robot 
   </span>
 
   <details style="display: inline; cursor: pointer; margin-left: 5px;">
-    <summary style="display: inline; font-weight: bold; color: #666; list-style: none; font-size: 0.9em;">
+    <summary style="display: inline; font-weight: bold; color: #268bd2; list-style: none; font-size: 0.9em;">
       [View details]
     </summary>
     
@@ -77,7 +77,7 @@ My research focuses on implementing **human-like Physical AI in dexterous robot 
 
 <hr style="margin: 30px 0;" />
 
-# Human-Inspired Physical AI for Dexterous Robotic Hands 
+# Human-Inspired Physical AI for Dexterous Manipulation
 
 <div style="display: block; margin-bottom: 15px;">
   <span style="display: inline;">
@@ -85,7 +85,7 @@ My research focuses on implementing **human-like Physical AI in dexterous robot 
   </span>
 
   <details style="display: inline; cursor: pointer; margin-left: 5px;">
-    <summary style="display: inline; font-weight: bold; color: #666; list-style: none; font-size: 0.9em;">
+    <summary style="display: inline; font-weight: bold; color: #268bd2; list-style: none; font-size: 0.9em;">
       [View details]
     </summary>
     
