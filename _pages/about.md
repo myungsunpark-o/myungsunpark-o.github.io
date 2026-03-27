@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 ---
-I am currently a postdoctoral scholar at University of California San Diego, working with Prof. [Michael T. Tolley](https://bioinspired.ucsd.edu/home) and Prof. [Geno Pawlak](https://efdlab.ucsd.edu/home). I earned my PhD from Seoul National Universiy with Prof. [Yong-Lae Park](https://softrobotics.snu.ac.kr/) (Dissertation: *Enhanced Human-Robot-Environment Interactions Enabled by Multi-Stiffness Soft Sensors and Interactive Control*).
+I am currently a postdoctoral scholar at University of California San Diego, working with Prof. Michael T. Tolley and Prof. Geno Pawlak. I earned my PhD from Seoul National Universiy with Prof. Yong-Lae Park (Dissertation: *Enhanced Human-Robot-Environment Interactions Enabled by Multi-Stiffness Soft Sensors and Interactive Control*).
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; width: 100%; margin: 30px 0;">
   
