@@ -33,10 +33,59 @@ My research focuses on implementing **human-like Physical AI in dexterous robot 
   </details>
 </div>
 
-<div style="width: 100%; margin-top: 15px;">
+<!-- <div style="width: 100%; margin-top: 15px;">
   <video autoplay loop muted playsinline style="width: 100%; height: auto; display: block;">
     <source src="/images/research/Research1.mp4" type="video/mp4">
     Your browser does not support the video tag.
+  </video>
+</div> -->
+
+<style>
+  /* 영상/이미지들을 감싸는 컨테이너 */
+  .media-container {
+    display: flex;
+    flex-wrap: wrap;       /* 모바일에서 줄바꿈 허용 */
+    gap: 10px;             /* 미디어 사이 간격 */
+    width: 100%;
+    justify-content: center; /* 중앙 정렬 */
+    margin-top: 15px;
+  }
+
+  /* 개별 영상/이미지 공통 스타일 */
+  .media-item {
+    height: 200px;         /* 핵심: 높이를 일정하게 고정 (박사님 취향에 맞게 조절 가능) */
+    flex: 1 1 auto;        /* 너비는 영상 비율에 맞춰 유연하게 조절 */
+    min-width: 150px;      /* 너무 작아지는 것 방지 */
+    max-width: 100%;       /* 화면 밖으로 나가는 것 방지 */
+    object-fit: contain;   /* 비율 유지 */
+    background: #000;      /* 비율 차이로 생기는 여백 검정 처리 */
+    border-radius: 4px;
+    display: block;
+  }
+
+  /* 모바일 대응 (화면 너비가 768px 이하일 때) */
+  @media (max-width: 768px) {
+    .media-item {
+      height: 150px;       /* 모바일에서는 높이를 살짝 줄임 */
+      flex: 1 1 45%;       /* 약 2개씩 한 줄에 배치 (gap 포함) */
+    }
+  }
+</style>
+
+<div class="media-container">
+  
+  <img src="/images/research/Research1_1.png" alt="Tactile Sensing Capture" class="media-item" />
+  
+  <video autoplay loop muted playsinline class="media-item">
+    <source src="/images/research/Research1_2.mp4" type="video/mp4">
+  </video>
+  
+  <video autoplay loop muted playsinline class="media-item">
+    <source src="/images/research/Research1_3.mp4" type="video/mp4">
+  </video>
+  
+  <video autoplay loop muted playsinline class="media-item">
+    <source src="/images/research/Research1_4.mp4" type="video/mp4">
   </video>
 </div>
 
