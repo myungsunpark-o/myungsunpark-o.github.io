@@ -16,7 +16,7 @@ My research focuses on implementing **human-like Physical AI in dexterous robot 
   </span>
 
   <details style="display: inline; cursor: pointer; margin-left: 5px;">
-    <summary style="display: inline; font-weight: bold; color: #268bd2; list-style: none; font-size: 0.9em;">
+    <summary style="display: inline; font-weight: bold; color: #268bd2; list-style: none; font-size: 1em;">
       [View details]
     </summary>
     
@@ -50,7 +50,7 @@ My research focuses on implementing **human-like Physical AI in dexterous robot 
   </span>
 
   <details style="display: inline; cursor: pointer; margin-left: 5px;">
-    <summary style="display: inline; font-weight: bold; color: #268bd2; list-style: none; font-size: 0.9em;">
+    <summary style="display: inline; font-weight: bold; color: #268bd2; list-style: none; font-size: 1em;">
       [View details]
     </summary>
     
@@ -85,7 +85,7 @@ My research focuses on implementing **human-like Physical AI in dexterous robot 
   </span>
 
   <details style="display: inline; cursor: pointer; margin-left: 5px;">
-    <summary style="display: inline; font-weight: bold; color: #268bd2; list-style: none; font-size: 0.9em;">
+    <summary style="display: inline; font-weight: bold; color: #268bd2; list-style: none; font-size: 1em;">
       [View details]
     </summary>
     
