@@ -10,19 +10,19 @@ I am currently a postdoctoral scholar at University of California San Diego, wor
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; width: 100%; margin: 30px 0;">
   
-  <video autoplay loop muted playsinline style="width: 100%; height: 200px; object-fit: cover; display: block; border: none;">
+  <video autoplay loop muted playsinline style="width: 100%; height: 220px; object-fit: cover; display: block; border: none;">
     <source src="/images/research/Main1.mp4" type="video/mp4">
   </video>
 
-  <video autoplay loop muted playsinline style="width: 100%; height: 200px; object-fit: cover; display: block; border: none;">
+  <video autoplay loop muted playsinline style="width: 100%; height: 220px; object-fit: cover; display: block; border: none;">
     <source src="/images/research/Main2.mp4" type="video/mp4">
   </video>
 
-  <video autoplay loop muted playsinline style="width: 100%; height: 200px; object-fit: cover; display: block; border: none;">
+  <video autoplay loop muted playsinline style="width: 100%; height: 220px; object-fit: cover; display: block; border: none;">
     <source src="/images/research/Main3.mp4" type="video/mp4">
   </video>
 
-  <video autoplay loop muted playsinline style="width: 100%; height: 200px; object-fit: cover; display: block; border: none;">
+  <video autoplay loop muted playsinline style="width: 100%; height: 220px; object-fit: cover; display: block; border: none;">
     <source src="/images/research/Main4.mp4" type="video/mp4">
   </video>
 
