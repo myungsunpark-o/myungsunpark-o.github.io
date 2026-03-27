@@ -31,3 +31,8 @@ I am currently a postdoctoral scholar at University of California San Diego, wor
 </div>
 
 My research focuses on enhancing adaptability and dexterity of robots during physical interactions within complex environments. I draw inspiration from **human motion, sensing, and intelligence**, embodying these principles into real-world robotic systems. My recent work addresses irregular, unsteady, and contact-rich environments through **exteroceptive sensing** (e.g., tactile and flow sensing) and **human–robot interfaces** (e.g., motion-capture gloves and haptic feedback devices) that enable **physical AI for robot manipulation**.
+
+---
+
+When I am not in the lab, I enjoy swimming (which provides great inspiration for my underwater robotics research!), painting, and binge-watching K-dramas.
+
