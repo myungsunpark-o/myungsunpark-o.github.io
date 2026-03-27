@@ -9,17 +9,20 @@ redirect_from:
 
 <style>
   .page__content a, 
-  .page__content a:visited,
-  #main a {
+  .page__content a:visited {
     text-decoration: none !important;
     color: #268bd2 !important;
   }
 
-  .page__content a:hover,
-  #main a:hover {
+  .page__content a:hover {
     text-decoration: underline !important;
   }
 
+  .sidebar a {
+    color: inherit !important;
+    text-decoration: none !important;
+  }
+  
   h1 {
     margin-top: 2em !important;
     border-bottom: 1px solid #eee;
