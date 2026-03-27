@@ -7,25 +7,23 @@ author_profile: true
 My research focuses on implementing **human-like Physical AI in dexterous robot hands** by integrating **human hand motion** and **robot tactile sensing**. My ultimate goal is to enable robots to perform complex tasks in uncertain, dynamic, and contact-rich environments through precise motion, sophisticated sensing, and high-level intelligence.
 
 <style>
-  /* 미디어 컨테이너: 웹에서 한 줄 고정 */
   .media-container {
     display: flex;
-    flex-wrap: nowrap;     /* 웹에서는 절대 줄바꿈 금지 */
-    gap: 12px;             /* 미디어 사이 여백 */
+    flex-wrap: nowrap;
+    gap: 12px;
     width: 100%;
     justify-content: center; 
     margin: 20px 0;
     background: transparent !important;
   }
 
-  /* 개별 미디어 아이템: Raw 이미지 느낌 그대로 */
   .media-item {
-    height: 180px;         /* 모든 섹션 높이 통일 */
-    flex: 1 1 auto;        /* 비율에 맞춰 너비 유연하게 조절 */
-    min-width: 0;          /* 한 줄에 꽉 차게 줄어들 수 있도록 허용 */
+    height: 180px;
+    flex: 1 1 auto;
+    min-width: 0;
     
-    object-fit: contain;   /* 영상/이미지가 잘리지 않고 전체가 다 보임 */
-    background: transparent !important; /* 여백은 투명하게 */
+    object-fit: contain;
+    background: transparent !important;
     
     /* 스타일 제거 (Raw) */
     border: none !important;
@@ -34,15 +32,14 @@ My research focuses on implementing **human-like Physical AI in dexterous robot 
     display: block;
   }
 
-  /* 모바일 대응: 768px 이하에서 2x2 격자 */
   @media (max-width: 768px) {
     .media-container {
-      flex-wrap: wrap;     /* 모바일에서는 줄바꿈 허용 */
+      flex-wrap: wrap;
       gap: 10px;
     }
     .media-item {
-      height: 140px;       /* 모바일에서는 높이를 살짝 줄임 */
-      flex: 1 1 45%;       /* 약 2개씩 한 줄에 배치 */
+      height: 140px;
+      flex: 1 1 45%;
     }
   }
 </style>
@@ -151,11 +148,11 @@ My research focuses on implementing **human-like Physical AI in dexterous robot 
 </div>
 
 <div class="media-container" style="flex-wrap: wrap !important;">
-  <video autoplay loop muted playsinline class="media-item" style="flex: 1 1 100% !important; height: auto !important; max-height: 300px;">
+  <video autoplay loop muted playsinline class="media-item" style="flex: 1 1 300px !important; height: auto !important; max-height: 350px;">
     <source src="/images/research/Research3-1.mp4" type="video/mp4">
   </video>
   
-  <video autoplay loop muted playsinline class="media-item" style="flex: 1 1 100% !important; height: auto !important; max-height: 300px;">
+  <video autoplay loop muted playsinline class="media-item" style="flex: 1 1 300px !important; height: auto !important; max-height: 350px;">
     <source src="/images/research/Research3-2.mp4" type="video/mp4">
   </video>
 </div>
