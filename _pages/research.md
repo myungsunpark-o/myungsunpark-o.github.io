@@ -22,13 +22,13 @@ My research focuses on implementing **human-like Physical AI in dexterous robot 
     
     <div style="display: block; margin: 15px 0; padding: 15px; background: #f9f9f9; border-left: 4px solid #ccc; border-radius: 4px; box-shadow: inset 0 0 5px rgba(0,0,0,0.02); cursor: default;">
       <div style="font-size: 1.0em; font-weight: bold; color: #333; margin-bottom: 5px;">Hand Motion Capture and Post-processing with Enhanced Accuracy</div>
-      <p style="margin-top: 0; margin-bottom: 15px;"><i>Robust Rotation-based MoCap</i> outperforms position-based estimation in accuracy. <i>Geometry Decoupling</i> solves the retargeting problem by separating user-independent and dependent variables. </p>
+      <p style="margin-top: 0; margin-bottom: 15px;"><i>Robust rotation-based MoCap</i> outperformed position-based estimation in accuracy. <i>Geometry decoupling</i> solved the retargeting problem by separating user-independent and dependent variables. </p>
 
       <div style="font-size: 1.0em; font-weight: bold; color: #333; margin-bottom: 5px;">Wearable Motion Capture Glove</div>
-      <p style="margin-top: 0; margin-bottom: 15px;"><i>Calibration-free Sensing</i> achieves state-of-the-art accuracy using highly stretchable strain sensors that conform and auto-calibrate to diverse hand shapes. <i>Versatile Application</i> demonstrated high performance in various virtual reality (VR) and human-robot interaction scenarios. </p>
+      <p style="margin-top: 0; margin-bottom: 15px;"><i>Calibration-free sensing</i> achieved state-of-the-art accuracy using highly stretchable strain sensors that conform and auto-calibrate to diverse hand shapes. <i>Versatile application</i> demonstrated high performance in various virtual reality and human-robot interaction scenarios. </p>
 
       <div style="font-size: 1.0em; font-weight: bold; color: #333; margin-bottom: 5px;">Intuitive Teleoperation of Multi-finger Robotic Hands</div>
-      <p style="margin-top: 0; margin-bottom: 0;"><i>Seamless Human-Robot Interface</i> enables intuitive control of multi-DoF robot hands. <i>Dexterous Manipulation</i> implements precise fingertip control and multi-finger coordination for complex tasks. </p>
+      <p style="margin-top: 0; margin-bottom: 0;"><i>Seamless human-robot interface</i> enables intuitive control of multi-DoF robot hands. <i>Dexterous manipulation</i> implements precise fingertip control and multi-finger coordination for complex tasks. </p>
     </div>
   </details>
 </div>
@@ -56,13 +56,13 @@ My research focuses on implementing **human-like Physical AI in dexterous robot 
     
     <div style="display: block; margin: 15px 0; padding: 15px; background: #f9f9f9; border-left: 4px solid #ccc; border-radius: 4px; box-shadow: inset 0 0 5px rgba(0,0,0,0.02); cursor: default;">
       <div style="font-size: 1.0em; font-weight: bold; color: #333; margin-bottom: 5px;">Haptic Feedback Devices for Teleoperation</div>
-      <p style="margin-top: 0; margin-bottom: 15px;"><i>IPMC Actuator-based Haptic Feedback</i> achieved enhanced remote grasping using a miniature gripper.</p>
+      <p style="margin-top: 0; margin-bottom: 15px;"><i>IPMC actuator-based haptic feedback</i> achieved enhanced remote grasping using a miniature gripper.</p>
     
       <div style="font-size: 1.0em; font-weight: bold; color: #333; margin-bottom: 5px;">Benchmarking Tactile Sensors for Imitation Learning</div>
-      <p style="margin-top: 0; margin-bottom: 15px;"><i>Visuo-tactile Policy Evaluation</i> identified the impact of six different tactile modalities on imitation learning for various manipulation tasks. </p>
+      <p style="margin-top: 0; margin-bottom: 15px;"><i>Visuo-tactile policy evaluation</i> identified the impact of six different tactile modalities on imitation learning for various manipulation tasks. </p>
     
       <div style="font-size: 1.0em; font-weight: bold; color: #333; margin-bottom: 0;">Development of Multimodal Sensors and Underwater Applications</div>
-      <p style="margin-top: 0; margin-bottom: 0;"><i>Multi-Modal Flow Sensors</i> enabled simultaneous estimation of complex flow structures and robotic movement via shear and high-frequency components in fluid-structure interaction. </p>
+      <p style="margin-top: 0; margin-bottom: 0;"><i>Multi-modal flow sensors</i> enabled simultaneous estimation of complex flow structures and robotic movement via shear and high-frequency components in fluid-structure interaction. </p>
       
     </div>
   </details>
@@ -91,11 +91,11 @@ My research focuses on implementing **human-like Physical AI in dexterous robot 
     
     <div style="display: block; margin: 15px 0; padding: 15px; background: #f9f9f9; border-left: 4px solid #ccc; border-radius: 4px; box-shadow: inset 0 0 5px rgba(0,0,0,0.02); cursor: default;">
     
-    <div style="font-size: 1.0em; font-weight: bold; color: #333; margin-bottom: 5px;">Hybrid System Modeling for Vision-free Manipulation</div>
-    <p style="margin-top: 0; margin-bottom: 15px;"><i>Defining Hybrid Variables</i> modeled human semantic decision-making processes in grasping tasks. <i>Proprioceptive Sensing</i> enables complex manipulation without visual feedback. </p>
+    <div style="font-size: 1.0em; font-weight: bold; color: #333; margin-bottom: 5px;">Hybrid System Modeling for Vision-Free Manipulation</div>
+    <p style="margin-top: 0; margin-bottom: 15px;"><i>Defining hybrid variables</i> modeled human semantic decision-making processes in grasping tasks. <i>Proprioceptive Sensing</i> enables complex manipulation without visual feedback. </p>
   
     <div style="font-size: 1.0em; font-weight: bold; color: #333; margin-bottom: 0;">State Estimation and Autonomous Gripper Systems</div>
-    <p style="margin-top: 0; margin-bottom: 0;"><i>Proprioceptive Sensor Model</i> guided the control system to robustly predict discrete physical events and contacts along with continuous poses of the robot and object. </p>
+    <p style="margin-top: 0; margin-bottom: 0;"><i>Proprioceptive sensor model</i> guided the control system to robustly predict discrete physical events and contacts along with continuous poses of the robot and object. </p>
     </div>
   </details>
 </div>
