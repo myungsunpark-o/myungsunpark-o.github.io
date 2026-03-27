@@ -23,24 +23,23 @@ Work experience
   
 Awards and Honors
 ======
-* 2025: Selected for Carl Storm Opportunity Fellowship for Gordon Research Conference
-* 2025: Selected for **Rising Stars of RoboSoft**
+* Selected for Carl Storm Opportunity Fellowship for Gordon Research Conference (2025)
+* Selected for **Rising Stars of RoboSoft** (2025)
   * 15 selected among assistant professors, group leaders, postdocs and students
-* 2025: Best poster award
+* Best poster award (2025)
   * The HARDER Workshop in IEEE International Conference on Soft Robotics
-* 2024: **Sejong Science Fellowship** (Overseas Training Track)
-  * National Research Foundation of Korea
-* 2024: Best poster presentation award
+* **Sejong Science Fellowship** Overseas Training Track (2024)
+* Best poster presentation award (2024)
   * SRRC Workshop, Soft Robotics Research Center, Seoul National University
-* 2022: Selected for Elite Summer School, University of southern Denmark
-* 2020: Cover article for *Advanced Intelligent System*
-* 2019: 1st Place award in Wearable Challenge Competition
+* Selected for Elite Summer School, University of southern Denmark (2022)
+* Cover article for *Advanced Intelligent System* (2020)
+* 1st Place award in Wearable Challenge Competition (2019)
   * IEEE International Conference on Soft Robotics (RoboSoft)
-* 2018: Graduation with honors, **Summa Cum Laude**
-* 2014--2018: Korean National Scholarships
-* 2015--2017: SNU Mechanical Engineering Scholarships
-* 2015--2017: Hyunsong Educational and Cultural Foundation Scholarships
-* 2014:	Seoul National University Foundation Scholarship
+* Graduation with honors, **Summa Cum Laude** (2018)
+* Korean National Scholarships (2014--2018)
+* SNU Mechanical Engineering Scholarships (2015--2017)
+* Hyunsong Educational and Cultural Foundation Scholarships (2015--2017)
+* Seoul National University Foundation Scholarship (2014)
 
 Teaching and Service
 ======
