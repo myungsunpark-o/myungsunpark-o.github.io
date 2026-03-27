@@ -29,7 +29,7 @@ author_profile: true
       <p style="margin-top: 0; margin-bottom: 15px;">착용 순간 손 모양에 알맞게 늘어나는 Highly stretchable strain sensors를 통한 캘리브레이션-프리, state-of-the-art accuracy로 손의 동작을 실시간 추정. 다양한 가상 현실 어플리케이션에 활용. </p>
 
       <div style="font-size: 1.0em; font-weight: bold; color: #333; margin-bottom: 5px;">로봇 핸드의 직관적인 원격 조작</div>
-      <p style="margin-top: 0; margin-bottom: 0;">여러 손가락의 협동과 손 끝의 정밀한 제어가 필요한 로봇 핸드의 dexterous manipulation 구현</p>
+      <p style="margin-top: 0; margin-bottom: 0;">여러 손가락의 협동과 손 끝의 정밀한 제어가 필요한 로봇 핸드의 dexterous manipulation 구현.</p>
     </div>
   </details>
 </div>
@@ -57,13 +57,13 @@ author_profile: true
     
     <div style="display: block; margin: 15px 0; padding: 15px; background: #f9f9f9; border-left: 4px solid #ccc; border-radius: 4px; box-shadow: inset 0 0 5px rgba(0,0,0,0.02); cursor: default;">
       <div style="font-size: 1.0em; font-weight: bold; color: #333; margin-bottom: 5px;">원격 조작을 위한 햅틱 피드백 디바이스</div>
-      <p style="margin-top: 0; margin-bottom: 15px;">정밀한 동작 측정을 위한 알고리즘과 데이터 처리를 연구합니다.</p>
+      <p style="margin-top: 0; margin-bottom: 15px;">모션 캡쳐 글러브 및 IPMC 액추에이터 기반 햅틱 피드백 디바이스를 활용한 저전압, miniature 그리퍼의 원격 물체 파지.</p>
 
       <div style="font-size: 1.0em; font-weight: bold; color: #333; margin-bottom: 5px;">모방학습을 위한 촉각 모달리티 벤치마킹</div>
-      <p style="margin-top: 0; margin-bottom: 15px;">손 모양과 동작을 동시에 측정하는 웨어러블 장치 연구입니다.</p>
+      <p style="margin-top: 0; margin-bottom: 15px;">Visuo-tactile 모방학습 정책 기반 다양한 조작 작업을 수행하기 위한 다양한 촉각 모달리티를 벤치마킹.</p>
 
       <div style="font-size: 1.0em; font-weight: bold; color: #333; margin-bottom: 5px;">멀티모달 센서의 개발과 수중 로봇 어플리케이션</div>
-      <p style="margin-top: 0; margin-bottom: 0;">로봇 핸드의 직관적인 원격 조작 인터페이스를 구현합니다.</p>
+      <p style="margin-top: 0; margin-bottom: 0;">전단력과 고주파 진동을 동시에 측정하는 멀티모달 유속 센서의 개발. 수중 로봇 표면의 유체-구조 상호작용의 측정을 통한 운동 및 환경의 정확한 측정.</p>
     </div>
   </details>
 </div>
