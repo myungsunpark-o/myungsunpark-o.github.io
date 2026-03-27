@@ -148,11 +148,11 @@ My research focuses on implementing **human-like Physical AI in dexterous robot 
 </div>
 
 <div class="media-container" style="flex-wrap: wrap !important;">
-  <video autoplay loop muted playsinline class="media-item" style="flex: 1 1 300px !important; height: auto !important; max-height: 350px;">
+  <video autoplay loop muted playsinline class="media-item" style="flex: 1 1 300px !important;">
     <source src="/images/research/Research3-1.mp4" type="video/mp4">
   </video>
   
-  <video autoplay loop muted playsinline class="media-item" style="flex: 1 1 300px !important; height: auto !important; max-height: 350px;">
+  <video autoplay loop muted playsinline class="media-item" style="flex: 1 1 300px !important;">
     <source src="/images/research/Research3-2.mp4" type="video/mp4">
   </video>
 </div>
