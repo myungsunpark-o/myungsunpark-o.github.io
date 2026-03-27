@@ -7,21 +7,6 @@ redirect_from:
   - /resume
 ---
 
-<style>
-  .page__content a, 
-  .page__content a:visited,
-  .page__content a:hover,
-  .page__content .pub-title {
-    color: #268bd2 !important;
-    font-weight: bold !important;
-    text-decoration: underline !important;
-  }
-  .not-linked-title {
-    color: #268bd2 !important;
-    font-weight: bold !important;
-  }
-</style>
-
 You can download my full CV [here](https://myungsunpark-o.github.io/files/CV%20-%20MyungsunPark.pdf).
 <hr style="margin: 30px 0;" />
 
@@ -70,7 +55,7 @@ Teaching and Service
 
 Patents
 ======
-3. [**Forming Mold**](https://doi.org/10.8080/1020210111235). Junghan Kwon, Yong-Lae Park, **Myungsun Park**, Jaeyoun Choi, Korean Patent No. 10-2789308-0000 (2025/03/26).
+3. <a href="https://doi.org/10.8080/1020210111235" style="color: #268bd2 !important; font-weight: bold !important; text-decoration: none !important;">Forming Mold</a>, Junghan Kwon, Yong-Lae Park, **Myungsun Park**, Jaeyoun Choi, Korean Patent No. 10-2789308-0000 (2025/03/26).
 2. [**Variable Stiffness Structure with Sandwich Structure**](https://doi.org/10.8080/1020210115721). Yong-Lae Park, Junghan Kwon, Inrak Choi, **Myungsun Park**, Bomin Jeong,  Korean Patent No. 10-2658664-0000 (2024/04/15).
 1. [**Optical Sensing Actuator, Soft Robot Having The Same Manufacturing Methods of Optical Sensing Actuator**](https://doi.org/10.8080/1020200035123). Yong-Lae Park, Jaewoong Jung, **Myungsun Park**, Korean Patent No. 10-2275900-0000 (2021/07/05).
 ### Filed
