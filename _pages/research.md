@@ -19,8 +19,8 @@ My research focuses on implementing **human-like Physical AI in dexterous robot 
     <summary style="display: inline; font-weight: bold; color: #268bd2; list-style: none; font-size: 1em;">
       [View details]
     </summary>
-    
-    <div style="display: block; margin: 15px 0; padding: 15px; background: #f9f9f9; border-left: 4px solid #ccc; border-radius: 4px; box-shadow: inset 0 0 5px rgba(0,0,0,0.02); cursor: default;">
+
+    <div style="display: block; margin: 15px 0; padding: 15px; background: rgba(128, 128, 128, 0.05); border-left: 4px solid #268bd2; border-radius: 4px; cursor: default; color: inherit !important;">
       <div style="font-size: 1.0em; font-weight: bold; color: #333; margin-bottom: 5px;">Hand Motion Capture and Post-processing with Enhanced Accuracy</div>
       <p style="margin-top: 0; margin-bottom: 15px;"><i>Robust rotation-based MoCap</i> outperformed position-based estimation in accuracy. <i>Geometry decoupling</i> solved the retargeting problem by separating user-independent and dependent variables. </p>
 
