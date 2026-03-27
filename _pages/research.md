@@ -60,10 +60,10 @@ author_profile: true
       <p style="margin-top: 0; margin-bottom: 15px;">모션 캡쳐 글러브 및 IPMC 액추에이터 기반 햅틱 피드백 디바이스를 활용한 저전압, miniature 그리퍼의 원격 물체 파지.</p>
 
       <div style="font-size: 1.0em; font-weight: bold; color: #333; margin-bottom: 5px;">모방학습을 위한 촉각 모달리티 벤치마킹</div>
-      <p style="margin-top: 0; margin-bottom: 15px;">Visuo-tactile 모방학습 정책 기반 다양한 조작 작업을 수행하기 위한 다양한 촉각 모달리티를 벤치마킹.</p>
+      <p style="margin-top: 0; margin-bottom: 15px;">6가지 서로 다른 촉각 센서를 사용한 Visuo-tactile 모방학습 정책의 조작 작업 성공률을 비교 및 분석.</p>
 
       <div style="font-size: 1.0em; font-weight: bold; color: #333; margin-bottom: 5px;">멀티모달 센서의 개발과 수중 로봇 어플리케이션</div>
-      <p style="margin-top: 0; margin-bottom: 0;">전단력과 고주파 진동을 동시에 측정하는 멀티모달 유속 센서의 개발. 수중 로봇 표면의 유체-구조 상호작용을 통한 운동 및 환경의 정확한 추정.</p>
+      <p style="margin-top: 0; margin-bottom: 0;">전단력과 고주파 진동을 동시에 측정하는 멀티모달 유속 센서의 개발. 수중 로봇 표면의 유체-구조 상호작용을 통한 로봇의 운동 및 복잡한 유동 구조의 정확한 추정.</p>
     </div>
   </details>
 </div>
@@ -91,10 +91,10 @@ author_profile: true
     
     <div style="display: block; margin: 15px 0; padding: 15px; background: #f9f9f9; border-left: 4px solid #ccc; border-radius: 4px; box-shadow: inset 0 0 5px rgba(0,0,0,0.02); cursor: default;">
       <div style="font-size: 1.0em; font-weight: bold; color: #333; margin-bottom: 5px;">비전 프리 조작을 위한 하이브리드 시스템 모델</div>
-      <p style="margin-top: 0; margin-bottom: 15px;">정밀한 동작 측정을 위한 알고리즘과 데이터 처리를 연구합니다.</p>
+      <p style="margin-top: 0; margin-bottom: 15px;">이산 변수와 연속 변수를 나누어 정의함으로써 파지 작업에서 촉각을 활용한 사람의 semantic 의사 결정 과정을 모델링.</p>
 
       <div style="font-size: 1.0em; font-weight: bold; color: #333; margin-bottom: 5px;">로봇의 상태 추정과 자동 파지 작업</div>
-      <p style="margin-top: 0; margin-bottom: 15px;">손 모양과 동작을 동시에 측정하는 웨어러블 장치 연구입니다.</p>
+      <p style="margin-top: 0; margin-bottom: 15px;">내장된 액체 금속 센서를 활용해 접촉 여부와 로봇 및 물체의 상대적 pose를 예측하여 강건하게 파지하는 제어 시스템.</p>
     </div>
   </details>
 </div>
