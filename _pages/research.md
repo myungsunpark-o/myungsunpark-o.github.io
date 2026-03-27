@@ -81,7 +81,7 @@ My research focuses on implementing **human-like Physical AI in dexterous robot 
 
 <div style="display: block; margin-bottom: 15px;">
   <span style="display: inline;">
-    Human intelligence, characterized by semantic reasoning and purposeful action based on accurate motion and sophisticated sensing, can be implemented in robots. My research focuses on <b>modeling complex human manipulation strategies and developing corresponding robotic sensing and control systems</b>. Beyond mere demonstration or data dependency, I aim to realize efficient Physical AI for robots that mimics human-level decision-making and dexterity.
+    Human intelligence, characterized by semantic reasoning and purposeful action based on accurate motion and sophisticated sensing, can be implemented in robots. My research focuses on <b>modeling human manipulation strategies and developing corresponding robotic sensing and control systems</b>. Beyond mere demonstration or data dependency, I aim to realize efficient Physical AI for robots that mimics human-level decision-making and dexterity.
   </span>
 
   <details style="display: inline; cursor: pointer; margin-left: 5px;">
