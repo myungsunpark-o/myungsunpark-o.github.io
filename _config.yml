@@ -24,9 +24,9 @@ repository               : "myungsunpark-o/myungsunpark-o.github.io"
 author:
   # Biographic information
   avatar           : "https://myungsunpark-o.github.io/images/myprofile.jpg"
-  name             : "Myungsun Park"
+  name             : "Myungsun Park (박명선)"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoc at UCSD"
+  bio              : "Postdoc at UC San Diego"
   location         : "San Diego, USA"
   employer         : #"University of California San Diego"
   uri              : "/files/CV - Myungsun Park.pdf"
