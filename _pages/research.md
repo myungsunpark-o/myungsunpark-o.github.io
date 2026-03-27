@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-My research goal is to implement **human-like dexterous manipulation in robotic hands**, enabling them to perform diverse tasks even in uncertain, dynamic, and contact-rich environments by leveraging precise motion, sophisticated sensing, and high-level intelligence. More specifically, I aim to realize **human-like physical AI** through the analysis of **human hand motion** and **tactile sensing**.
+My research goal is to implement **dexterous manipulation in robotic hands**, enabling them to perform diverse tasks even in uncertain, dynamic, and contact-rich environments by leveraging precise motion, sophisticated sensing, and high-level intelligence. More specifically, I aim to realize **human-like physical AI** through the analysis of **human hand motion** and **tactile sensing**.
 
 <hr style="margin: 30px 0;" />
 
