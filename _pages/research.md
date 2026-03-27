@@ -40,14 +40,6 @@ My research focuses on implementing **human-like Physical AI in dexterous robot 
   </video>
 </div> -->
 
-네, 박사님! 여백에 검정색이 들어가지 않도록 background: transparent !important; 설정을 확실히 넣고, object-fit 속성을 조절해서 "잘리지 않으면서도 여백은 투명한" 상태로 만들어 드릴게요.
-
-보통 영상이나 이미지의 비율이 제각각일 때, object-fit: contain;을 쓰면 부족한 공간이 생기는데, 이때 배경을 투명하게 두면 웹사이트의 본문 배경색이 그대로 비쳐서 아주 깔끔하게 보입니다.
-
-🛠️ 최종 수정된 Research 페이지용 CSS & HTML
-이 코드를 적용하시면 웹에서는 무조건 한 줄, 모바일에서는 2x2, 그리고 모든 여백은 투명하게 처리됩니다.
-
-HTML
 <style>
   /* 미디어 컨테이너: 웹에서 한 줄 고정 */
   .media-container {
