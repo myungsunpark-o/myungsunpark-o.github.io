@@ -139,7 +139,7 @@ My research focuses on implementing **human-like Physical AI in dexterous robot 
     
     <div style="display: block; margin: 15px 0; padding: 15px; background: rgba(128, 128, 128, 0.05); border-left: 4px solid #268bd2; border-radius: 4px; cursor: default; color: inherit !important;">
     <div style="font-size: 1.0em; font-weight: bold; color: inherit; margin-bottom: 5px;">Hybrid System Modeling for Vision-Free Manipulation</div>
-    <p style="margin-top: 0; margin-bottom: 15px;"><i>Defining hybrid variables</i> modeled human semantic decision-making processes in grasping tasks. <i>Proprioceptive Sensing</i> enabled complex manipulation without visual feedback. </p>
+    <p style="margin-top: 0; margin-bottom: 15px;"><i>Defining hybrid variables</i> modeled human semantic decision-making processes in grasping tasks. <i>Proprioceptive sensing</i> enabled complex manipulation without visual feedback. </p>
   
     <div style="font-size: 1.0em; font-weight: bold; color: inherit; margin-bottom: 0;">State Estimation and Autonomous Gripper Systems</div>
     <p style="margin-top: 0; margin-bottom: 0;"><i>Proprioceptive sensor model</i> guided the control system to robustly predict discrete physical events and contacts along with continuous poses of the robot and object. </p>
