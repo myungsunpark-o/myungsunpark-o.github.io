@@ -7,48 +7,49 @@ author_profile: true
 My research focuses on implementing **human-like Physical AI in dexterous robot hands** by integrating **human hand motion** and **robot tactile sensing**. My ultimate goal is to enable robots to perform complex tasks in uncertain, dynamic, and contact-rich environments through precise motion, sophisticated sensing, and high-level intelligence.
 
 <style>
-  /* 1. 미디어 컨테이너: 웹에서 한 줄 강제 */
+  /* 1. 미디어 컨테이너 */
   .media-container {
     display: flex;
     flex-wrap: nowrap;     /* 웹에서는 절대 줄바꿈 금지 */
     gap: 12px;
     width: 100%;
     justify-content: center; 
-    align-items: center;
+    align-items: flex-start; /* 핵심: 수직 중앙 정렬(center) 제거 -> 상단 정렬로 여백 방지 */
     margin: 25px 0;
     background: transparent !important;
   }
 
-  /* 2. 확대 링크: 영상 크기에 밀착 */
+  /* 2. 확대 링크: 영상 크기에 완전히 밀착 */
   .enlarge-link {
-    display: inline-block;
-    flex: 0 1 auto;        /* 공간에 따라 줄어들 수 있게 설정 (너무 커짐 방지) */
+    display: inline-block; /* 자식(영상) 너비만큼만 크기를 가짐 */
+    flex: 0 1 auto;        /* 화면 넓이에 맞춰 줄어듦 허용 */
     min-width: 0;          /* Flex 안에서 삐져나감 방지 */
     cursor: zoom-in;
     text-decoration: none;
-    line-height: 0;
+    line-height: 0;        /* 핵심: 인라인 요소 특유의 하단 공백(또는 수직 여백) 제거 */
     
     transition: box-shadow 0.2s ease, border-color 0.2s ease;
     border: 2px solid transparent;
     border-radius: 4px;
+    overflow: hidden;      /* 영상이 테두리를 넘지 않게 */
   }
 
-  /* 3. 개별 미디어 아이템: 높이 고정 및 비율 유지 */
+  /* 3. 개별 미디어 아이템 */
   .media-item {
-    height: 180px;         /* 박사님이 지정하신 기준 높이 */
+    height: 180px;         /* 박사님 지정 기준 높이 */
     width: auto;           /* 비율에 맞게 너비 조절 */
     max-width: 100%;       /* 컨테이너보다 커지지 않음 */
-    display: block;
-    object-fit: contain;
+    display: block;        /* 핵심: 블록 요소로 만들어 인라인 여백 방지 */
+    object-fit: contain;   /* 절대 왜곡되거나 잘리지 않음 */
   }
 
   /* 호버 이펙트: 연한 회색 */
   .enlarge-link:hover {
-    border-color: #d3d3d3;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    border-color: #d3d3d3; /* 연한 회색 */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.12); /* 은은한 음영 */
   }
 
-  /* 4. 모바일 대응: 2열 격자 */
+  /* 4. 모바일 대응 */
   @media (max-width: 768px) {
     .media-container {
       flex-wrap: wrap;     /* 모바일에서만 줄바꿈 */
@@ -60,6 +61,11 @@ My research focuses on implementing **human-like Physical AI in dexterous robot 
     .media-item {
       height: auto;        /* 모바일은 가로 너비에 맞춤 */
       width: 100%;
+    }
+    /* 모바일 터치 시 이펙트 제거 */
+    .enlarge-link:hover {
+      box-shadow: none;
+      border-color: transparent;
     }
   }
 </style>
