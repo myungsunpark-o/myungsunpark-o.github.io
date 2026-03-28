@@ -80,8 +80,8 @@ My research focuses on implementing **human-like Physical AI in dexterous robot 
 </div>
 
 <div class="media-container">
-  <a href="/images/research/Research1-1.png" target="_blank" class="enlarge-link">
-    <img src="/images/research/Research1-1.png" alt="Research Data" class="media-item" />
+  <a href="/images/research/Research1-1.mp4" target="_blank" class="enlarge-link">
+    <video autoplay loop muted playsinline class="media-item" style="pointer-events: none;"><source src="/images/research/Research1-1.mp4" type="video/mp4"></video>
   </a>
   <a href="/images/research/Research1-2.mp4" target="_blank" class="enlarge-link">
     <video autoplay loop muted playsinline class="media-item" style="pointer-events: none;"><source src="/images/research/Research1-2.mp4" type="video/mp4"></video>
