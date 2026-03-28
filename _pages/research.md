@@ -14,46 +14,50 @@ My research focuses on implementing **human-like Physical AI in dexterous robot 
     gap: 15px;             /* 간격을 약간 넓힘 */
     width: 100%;
     justify-content: center; 
+    align-items: flex-start; /* 영상들이 상단 정렬되도록 수정 */
     margin: 25px 0;
     background: transparent !important;
   }
 
-  /* 2. 확대 링크용 스타일 (호버 이펙트의 핵심) */
+  /* 2. 확대 링크용 스타일 (정적인 강조) */
   .enlarge-link {
     display: block;
-    flex: 0 1 auto;        /* 영상 비율에 맞게 너비 자동 조절 */
     cursor: zoom-in;
     text-decoration: none;
     
-    /* 부드러운 애니메이션 속도 설정 */
-    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+    /* 부드러운 전환 효과 */
+    transition: background-color 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
     
-    /* 기본 상태에서는 테두리와 음영을 투명하게 설정 */
+    /* 기본 상태: 테두리를 투명하게 설정 */
     border: 2px solid transparent;
-    border-radius: 4px;    /* 음영이 예쁘게 먹히도록 살짝 라운딩 */
+    border-radius: 4px;
+    padding: 0;           /* 테두리와 영상 사이 여백 제거 */
+    overflow: hidden;      /* 영상이 테두리를 넘지 않게 설정 */
   }
 
-  /* 3. 개별 미디어 아이템: 높이 180px 고정 및 왜곡 방지 */
+  /* 3. 개별 미디어 아이템: 높이는 고정, 너비는 가득 채움 */
   .media-item {
-    height: 180px;
-    width: auto;           /* 비율 유지를 위해 너비 자동 */
+    height: 180px;         /* 높이 고정 유지 */
+    width: 100%;           /* 감싸고 있는 <a> 태그 너비에 맞춤 */
     max-width: 100%;
-    object-fit: contain;   /* 절대 왜곡되거나 잘리지 않음 */
+    object-fit: fill;     /* 여백 없이 박스를 꽉 채움 (왜곡 없음 - 너비는 <a> 태그가 조절) */
     background: transparent !important;
-    border: none !important; /* 내부 테두리 제거 */
+    border: none !important;
     display: block;
   }
 
-  /* ★ [핵심] 마우스를 올렸을 때(Hover) 이펙트 정의 */
+  /* ★ [핵심 수] 마우스를 올렸을 때(Hover): 파란색 제거 -> 연한 회색 강조 */
   .enlarge-link:hover {
-    /* (1) 살짝 커지는 효과 (1.03배) */
-    transform: scale(1.03);
+    transform: none !important; /* 커지는 효과 제거 유지 */
     
-    /* (2) 테두리에 푸르스름한 강조색 추가 */
-    border-color: #268bd2;
+    /* (수정) 강조색 테두리: 파란색 -> 연한 회색 */
+    border-color: #d3d3d3; /* 또는 #cccccc 등 선호하는 회색 톤으로 조절 가능 */
     
-    /* (3) 은은하고 고급스러운 그림자(음영) 효과 */
-    box-shadow: 0 10px 20px rgba(38, 139, 210, 0.3);
+    /* 은은한 음영 (그림자 색상도 회색 계열로 변경) */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    
+    /* 배경 톤 추가 제거 (깔끔하게 테두리와 음영만 남김) */
+    background-color: transparent !important;
   }
 
   /* 4. 모바일 대응: 768px 이하에서 2줄 격자 정렬 */
@@ -63,16 +67,16 @@ My research focuses on implementing **human-like Physical AI in dexterous robot 
       gap: 10px;
     }
     .enlarge-link {
-      flex: 1 1 45%;       /* 모바일에서 한 줄에 2개씩 배치 */
+      flex: 1 1 45% !important; /* 모바일에서 한 줄에 2개씩 배치 */
+      width: auto !important;   /* 모바일에서는 너비 자동 조절 */
     }
     .media-item {
       height: 140px;       /* 모바일 높이 약간 축소 */
       width: 100%;         /* 할당된 너비에 맞춤 */
-      object-fit: contain;
+      object-fit: fill;    /* 여백 없이 꽉 채움 */
     }
-    /* 모바일에서는 호버 이펙트 제외 (터치 시 어색함 방지) */
+    /* 모바일 터치 시 음영 제거 */
     .enlarge-link:hover {
-      transform: none;
       box-shadow: none;
       border-color: transparent;
     }
@@ -104,16 +108,16 @@ My research focuses on implementing **human-like Physical AI in dexterous robot 
 </div>
 
 <div class="media-container">
-  <a href="/images/research/Research1-1.mp4" target="_blank" class="enlarge-link">
+  <a href="/images/research/Research1-1.mp4" target="_blank" class="enlarge-link" style="flex: 0 0 240px; width: 240px;">
     <video autoplay loop muted playsinline class="media-item" style="pointer-events: none;"><source src="/images/research/Research1-1.mp4" type="video/mp4"></video>
   </a>
-  <a href="/images/research/Research1-2.mp4" target="_blank" class="enlarge-link">
+  <a href="/images/research/Research1-2.mp4" target="_blank" class="enlarge-link" style="flex: 0 0 320px; width: 320px;">
     <video autoplay loop muted playsinline class="media-item" style="pointer-events: none;"><source src="/images/research/Research1-2.mp4" type="video/mp4"></video>
   </a>
-  <a href="/images/research/Research1-3.mp4" target="_blank" class="enlarge-link">
+  <a href="/images/research/Research1-3.mp4" target="_blank" class="enlarge-link" style="flex: 0 0 180px; width: 180px;">
     <video autoplay loop muted playsinline class="media-item" style="pointer-events: none;"><source src="/images/research/Research1-3.mp4" type="video/mp4"></video>
   </a>
-  <a href="/images/research/Research1-4.mp4" target="_blank" class="enlarge-link">
+  <a href="/images/research/Research1-4.mp4" target="_blank" class="enlarge-link" style="flex: 0 0 320px; width: 320px;">
     <video autoplay loop muted playsinline class="media-item" style="pointer-events: none;"><source src="/images/research/Research1-4.mp4" type="video/mp4"></video>
   </a>
 </div>
@@ -143,13 +147,13 @@ My research focuses on implementing **human-like Physical AI in dexterous robot 
 </div>
 
 <div class="media-container">
-  <a href="/images/research/Research2-1.mp4" target="_blank" class="enlarge-link">
+  <a href="/images/research/Research2-1.mp4" target="_blank" class="enlarge-link" style="flex: 0 0 320px; width: 320px;">
     <video autoplay loop muted playsinline class="media-item" style="pointer-events: none;"><source src="/images/research/Research2-1.mp4" type="video/mp4"></video>
   </a>
-  <a href="/images/research/Research2-2.mp4" target="_blank" class="enlarge-link">
+  <a href="/images/research/Research2-2.mp4" target="_blank" class="enlarge-link" style="flex: 0 0 240px; width: 240px;">
     <video autoplay loop muted playsinline class="media-item" style="pointer-events: none;"><source src="/images/research/Research2-2.mp4" type="video/mp4"></video>
   </a>
-  <a href="/images/research/Research2-3.mp4" target="_blank" class="enlarge-link">
+  <a href="/images/research/Research2-3.mp4" target="_blank" class="enlarge-link" style="flex: 0 0 320px; width: 320px;">
     <video autoplay loop muted playsinline class="media-item" style="pointer-events: none;"><source src="/images/research/Research2-3.mp4" type="video/mp4"></video>
   </a>
 </div>
@@ -177,13 +181,13 @@ My research focuses on implementing **human-like Physical AI in dexterous robot 
 </div>
 
 <div class="media-container">
-  <a href="/images/research/Research3-1.mp4" target="_blank" class="enlarge-link">
+  <a href="/images/research/Research3-1.mp4" target="_blank" class="enlarge-link" style="flex: 0 0 180px; width: 180px;">
     <video autoplay loop muted playsinline class="media-item" style="pointer-events: none;"><source src="/images/research/Research3-1.mp4" type="video/mp4"></video>
   </a>
-  <a href="/images/research/Research3-2.mp4" target="_blank" class="enlarge-link">
+  <a href="/images/research/Research3-2.mp4" target="_blank" class="enlarge-link" style="flex: 0 0 320px; width: 320px;">
     <video autoplay loop muted playsinline class="media-item" style="pointer-events: none;"><source src="/images/research/Research3-2.mp4" type="video/mp4"></video>
   </a>
-  <a href="/images/research/Research3-3.mp4" target="_blank" class="enlarge-link">
+  <a href="/images/research/Research3-3.mp4" target="_blank" class="enlarge-link" style="flex: 0 0 240px; width: 240px;">
     <video autoplay loop muted playsinline class="media-item" style="pointer-events: none;"><source src="/images/research/Research3-3.mp4" type="video/mp4"></video>
   </a>
 </div>
