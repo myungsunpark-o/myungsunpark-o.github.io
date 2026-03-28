@@ -7,38 +7,56 @@ author_profile: true
 My research focuses on implementing **human-like Physical AI in dexterous robot hands** by integrating **human hand motion** and **robot tactile sensing**. My ultimate goal is to enable robots to perform complex tasks in uncertain, dynamic, and contact-rich environments through precise motion, sophisticated sensing, and high-level intelligence.
 
 <style>
-  /* 미디어 컨테이너: 웹에서 한 줄 고정 */
+  /* 1. 미디어 컨테이너: 웹에서 한 줄 고정 */
   .media-container {
     display: flex;
     flex-wrap: nowrap;     /* 웹에서는 줄바꿈 금지 */
-    gap: 12px;
+    gap: 15px;             /* 간격을 약간 넓힘 */
     width: 100%;
     justify-content: center; 
-    margin: 20px 0;
+    margin: 25px 0;
     background: transparent !important;
   }
 
-  /* 확대 링크용 스타일 */
+  /* 2. 확대 링크용 스타일 (호버 이펙트의 핵심) */
   .enlarge-link {
     display: block;
     flex: 0 1 auto;        /* 영상 비율에 맞게 너비 자동 조절 */
     cursor: zoom-in;
     text-decoration: none;
+    
+    /* 부드러운 애니메이션 속도 설정 */
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+    
+    /* 기본 상태에서는 테두리와 음영을 투명하게 설정 */
+    border: 2px solid transparent;
+    border-radius: 4px;    /* 음영이 예쁘게 먹히도록 살짝 라운딩 */
   }
 
-  /* 개별 미디어 아이템: 높이 180px 고정 및 왜곡 방지 */
+  /* 3. 개별 미디어 아이템: 높이 180px 고정 및 왜곡 방지 */
   .media-item {
     height: 180px;
     width: auto;           /* 비율 유지를 위해 너비 자동 */
     max-width: 100%;
     object-fit: contain;   /* 절대 왜곡되거나 잘리지 않음 */
     background: transparent !important;
-    border: none !important;
-    border-radius: 0 !important;
+    border: none !important; /* 내부 테두리 제거 */
     display: block;
   }
 
-  /* 모바일 대응: 768px 이하에서 2줄 격자 정렬 */
+  /* ★ [핵심] 마우스를 올렸을 때(Hover) 이펙트 정의 */
+  .enlarge-link:hover {
+    /* (1) 살짝 커지는 효과 (1.03배) */
+    transform: scale(1.03);
+    
+    /* (2) 테두리에 푸르스름한 강조색 추가 */
+    border-color: #268bd2;
+    
+    /* (3) 은은하고 고급스러운 그림자(음영) 효과 */
+    box-shadow: 0 10px 20px rgba(38, 139, 210, 0.3);
+  }
+
+  /* 4. 모바일 대응: 768px 이하에서 2줄 격자 정렬 */
   @media (max-width: 768px) {
     .media-container {
       flex-wrap: wrap;     /* 모바일에서는 줄바꿈 허용 */
@@ -51,6 +69,12 @@ My research focuses on implementing **human-like Physical AI in dexterous robot 
       height: 140px;       /* 모바일 높이 약간 축소 */
       width: 100%;         /* 할당된 너비에 맞춤 */
       object-fit: contain;
+    }
+    /* 모바일에서는 호버 이펙트 제외 (터치 시 어색함 방지) */
+    .enlarge-link:hover {
+      transform: none;
+      box-shadow: none;
+      border-color: transparent;
     }
   }
 </style>
