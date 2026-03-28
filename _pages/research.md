@@ -60,7 +60,7 @@ My research focuses on implementing **human-like Physical AI in dexterous robot 
 
     <div style="display: block; margin: 15px 0; padding: 15px; background: rgba(128, 128, 128, 0.05); border-left: 4px solid #268bd2; border-radius: 4px; cursor: default; color: inherit !important;">
       <div style="font-size: 1.0em; font-weight: bold; color: inherit; margin-bottom: 5px;">Hand Motion Capture and Post-processing with Enhanced Accuracy</div>
-      <p style="margin-top: 0; margin-bottom: 15px;"><i>Robust rotation-based MoCap</i> outperformed position-based estimation in accuracy. <i>Geometry decoupling</i> solved the retargeting problem by separating user-independent and dependent variables. </p>
+      <p style="margin-top: 0; margin-bottom: 15px;"><i>Robust rotation-based visual motion capture</i> outperformed position-based counterpart in accuracy. <i>Geometry decoupling</i> solved the retargeting problem by separating user-independent and dependent variables. </p>
 
       <div style="font-size: 1.0em; font-weight: bold; color: inherit; margin-bottom: 5px;">Wearable Motion Capture Glove</div>
       <p style="margin-top: 0; margin-bottom: 15px;"><i>Calibration-free sensing</i> achieved state-of-the-art accuracy using highly stretchable strain sensors that conform and auto-calibrate to diverse hand shapes. <i>Versatile application</i> demonstrated high performance in various virtual reality and human-robot interaction scenarios. </p>
@@ -147,12 +147,12 @@ My research focuses on implementing **human-like Physical AI in dexterous robot 
   </details>
 </div>
 
-<div class="media-container" style="flex-wrap: nowrap !important; justify-content: center !important; gap: 20px !important;">
-  <video autoplay loop muted playsinline class="media-item" style="flex: 0 1 auto !important; height: 180px !important; width: auto !important; object-fit: contain !important;">
+<div class="media-container">
+  <video autoplay loop muted playsinline class="media-item" style="flex: 1 1 40% !important; height: 180px !important; width: auto !important; object-fit: contain !important;">
     <source src="/images/research/Research3-1.mp4" type="video/mp4">
   </video>
   
-  <video autoplay loop muted playsinline class="media-item" style="flex: 0 1 auto !important; height: 180px !important; width: auto !important; object-fit: contain !important;">
+  <video autoplay loop muted playsinline class="media-item" style="flex: 1 1 40% !important; height: 180px !important; width: auto !important; object-fit: contain !important;">
     <source src="/images/research/Research3-2.mp4" type="video/mp4">
   </video>
 </div>
