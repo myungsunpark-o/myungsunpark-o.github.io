@@ -4,10 +4,9 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-My research focuses on implementing **human-like Physical AI in dexterous robot hands** by integrating **human hand motion** and **robot tactile sensing**. My ultimate goal is to enable robots to perform complex tasks in uncertain, dynamic, and contact-rich environments through precise motion, sophisticated sensing, and high-level intelligence.
+My research focuses on implementing **human-like Physical AI in dexterous robot hands** by integrating **human hand motion** and **robot tactile sensing**. My ultimate goal is to enable robots to perform complex tasks in uncertain, dynamic, and contact-rich environments through 1) precise motion, 2) sophisticated sensing, and 3) high-level intelligence.
 
 <style>
-  /* 1. 미디어 컨테이너 */
   .media-container {
     display: flex;
     flex-wrap: nowrap;
@@ -19,49 +18,43 @@ My research focuses on implementing **human-like Physical AI in dexterous robot 
     padding: 0 !important;
   }
 
-  /* 2. 확대 링크: 테두리가 영상에 밀착되도록 보정 */
   .enlarge-link {
     display: inline-block;
     flex: 0 1 auto;
     cursor: zoom-in;
     text-decoration: none;
     
-    /* 테마 기본 마진/패딩 제거 */
     margin: 0 !important;
     padding: 0 !important;
     line-height: 0 !important; 
     
-    /* 테두리 설정 (기본은 투명, 호버 시 회색) */
     border: 2px solid transparent;
     border-radius: 4px;
     transition: all 0.2s ease;
     overflow: hidden;
   }
 
-  /* 3. 개별 미디어 아이템: 수직 정렬 여백 제거 핵심 */
   .media-item {
-    height: 180px !important; /* 웹 기준 고정 높이 */
+    height: 180px !important;
     width: auto !important;
     max-width: 100%;
     display: block !important;
     
-    /* ★ 핵심: 이미지/영상 하단의 유령 여백(baseline) 제거 */
     vertical-align: top !important; 
     
     margin: 0 !important;
     padding: 0 !important;
     background: transparent !important;
     border: none !important;
-    box-shadow: none !important; /* 테마 기본 그림자 제거 */
+    box-shadow: none !important;
   }
 
-  /* 마우스 호버 시 효과 */
   .enlarge-link:hover {
-    border-color: #d3d3d3 !important; /* 연한 회색 */
+    border-color: #d3d3d3 !important;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15) !important;
   }
 
-  /* 4. 모바일 대응 */
+  /*모바일*/
   @media (max-width: 768px) {
     .media-container {
       flex-wrap: wrap;
