@@ -35,6 +35,7 @@ Work experience
   
 Awards and Honors
 ======
+* Selected for Asian Dean’s Forum - The Rising Stars Women in Engineering Workshop (2026)
 * Selected for Carl Storm Opportunity Fellowship for Gordon Research Conference (2025)
 * Selected for **Rising Stars of RoboSoft** (2025)
   * 15 selected among assistant professors, group leaders, postdocs and students
