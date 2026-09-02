@@ -56,7 +56,7 @@ Awards and Honors
 
 Teaching and Service
 ======
-* **Peer-reviews**: IEEE Robotics and Automation Letters, IEEE Transactions on Robotics, Science Advances, Advanced Intelligent Systems, Robotics: Science and Systems, IEEE International Conference on Robotics (ICRA), IEEE International Conference on Soft Robotics (RoboSoft).
+* **Peer-reviews**: IEEE Robotics and Automation Letters, IEEE Transactions on Robotics, Science Advances, Advanced Science, Advanced Intelligent Systems, Robotics: Science and Systems, IEEE International Conference on Robotics (ICRA), IEEE International Conference on Soft Robotics (RoboSoft).
 * **Conference session chair**: ICRA 2025, Atlanta, GA USA.
 * **Conference volunteer**: RoboSoft 2024, San Diego, CA USA.
 * **Guest lectures**: UC San Diego MAE 249 (Soft Robotics) (Spring 2024, Fall 2024, Fall 2025)
